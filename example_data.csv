@@ -1,0 +1,18 @@
+student_id,note,departement,Code_ue,Matiere,Enseignant
+STU001,14.5,Informatique,UE101,Algorithmes,Dupont
+STU002,12.0,Informatique,UE101,Algorithmes,Dupont
+STU003,16.0,Informatique,UE102,Structures de données,Martin
+STU004,11.5,Informatique,UE101,Algorithmes,Dupont
+STU005,15.0,Informatique,UE102,Structures de données,Martin
+STU001,13.0,Informatique,UE103,Base de données,Bernard
+STU002,14.5,Informatique,UE103,Base de données,Bernard
+STU003,12.5,Informatique,UE103,Base de données,Bernard
+STU004,16.5,Informatique,UE101,Algorithmes,Dupont
+STU005,10.0,Informatique,UE102,Structures de données,Martin
+STU006,18.0,Mathématiques,UE201,Analyse,Petit
+STU007,15.5,Mathématiques,UE201,Analyse,Petit
+STU008,13.5,Mathématiques,UE202,Algèbre,Durand
+STU006,14.0,Mathématiques,UE202,Algèbre,Durand
+STU007,16.5,Mathématiques,UE201,Analyse,Petit
+STU008,12.0,Mathématiques,UE202,Algèbre,Durand
+

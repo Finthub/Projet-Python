@@ -1,0 +1,1201 @@
+"student_id","nom","departement","Code_ue","intitulé_matière","enseignant","note"
+735674,"Amah Doe","Génie électrique","RS180","Réseaux avancés","Pr. T. Lawson",0.18
+664072,"Akoua Komlan","Génie Logiciel","ME101","Mécanique générale","Dr. Y. Amegah",19.71
+988155,"Koffi Komlan","Informatique et Systèmes","ME101","Mécanique générale","Pr. D. Tchalla",6.71
+417935,"Yao Agbeko","Génie mécanique","GL200","Conception logicielle","Pr. T. Lawson",6.31
+235160,"Afi Lawson","Systèmes Réseaux","AI310","Machine Learning","Pr. G. Komlan",15.05
+853408,"Eyram Agbeko","Génie électrique","SC120","Théorie des Signaux","Pr. G. Komlan",18.53
+648512,"Koffi Tchalla","SCOM","CS220","Programmation avancée","Dr. M. Kpante",17.11
+111446,"Mawuli Amouzou","Génie civil","EL201","Électrotechnique","Dr. K. Agbeko",12.44
+135178,"Yao Kouma","Systèmes Réseaux","CS220","Programmation avancée","Dr. K. Agbeko",14.73
+874958,"Kossi Agbeko","IA & Big Data","CS220","Programmation avancée","Dr. K. Agbeko",18.39
+731978,"Eyram Amegah","Systèmes Réseaux","AI310","Machine Learning","Dr. M. Kpante",8.7
+702571,"Afi Komlan","Génie électrique","SC120","Théorie des Signaux","Dr. K. Agbeko",6.73
+563332,"Afi Lawson","Génie mécanique","CI150","Calcul scientifique","Pr. D. Tchalla",0.1
+785480,"Komi Komlan","Systèmes Réseaux","SC120","Théorie des Signaux","Dr. M. Kpante",10.71
+912728,"Amah Amouzou","Génie civil","SC120","Théorie des Signaux","Pr. L. Mensah",12.89
+185177,"Elom Kouma","Systèmes Réseaux","AI310","Machine Learning","Pr. T. Lawson",2.9
+992930,"Komi Komlan","Génie mécanique","RS180","Réseaux avancés","Pr. D. Tchalla",4.87
+933134,"Abla Komlan","SCOM","SC120","Théorie des Signaux","Dr. Y. Amegah",2.01
+515691,"Abla Amouzou","Génie électrique","EL201","Électrotechnique","Pr. D. Tchalla",7.23
+927553,"Yao Tchalla","Génie civil","SC120","Théorie des Signaux","Dr. K. Agbeko",5.72
+948043,"Yao Lawson","Systèmes Réseaux","SC120","Théorie des Signaux","Pr. L. Mensah",4.34
+141888,"Abla Amouzou","Génie Logiciel","SC120","Théorie des Signaux","Dr. K. Agbeko",5.26
+140927,"Afi Doe","Génie électrique","ME101","Mécanique générale","Pr. T. Lawson",11.8
+752398,"Komi Tchalla","IA & Big Data","RS180","Réseaux avancés","Pr. T. Lawson",14.87
+512883,"Abla Amegah","Génie Logiciel","SC120","Théorie des Signaux","Dr. M. Kpante",9.2
+160402,"Komi Agbeko","Génie civil","CS220","Programmation avancée","Dr. M. Kpante",14.96
+924931,"Elom Amouzou","Génie mécanique","CS220","Programmation avancée","Dr. S. Amouzou",15.26
+426082,"Akoua Komlan","Génie civil","EL201","Électrotechnique","Dr. Y. Amegah",7.52
+232711,"Amah Agbeko","Génie Logiciel","ME101","Mécanique générale","Pr. T. Lawson",14.8
+219612,"Senam Lawson","Systèmes Réseaux","CS220","Programmation avancée","Dr. S. Amouzou",3.87
+262579,"Abla Kouma","IA & Big Data","CI150","Calcul scientifique","Dr. S. Amouzou",16.22
+942393,"Komi Amegah","Génie Logiciel","RS180","Réseaux avancés","Dr. M. Kpante",6.32
+754001,"Koffi Amouzou","Génie mécanique","ME101","Mécanique générale","Pr. G. Komlan",12.68
+927579,"Yao Kpante","Systèmes Réseaux","EL201","Électrotechnique","Dr. M. Kpante",8.94
+190916,"Komi Kouma","IA & Big Data","CS220","Programmation avancée","Dr. M. Kpante",17.5
+139163,"Komi Kouma","SCOM","EL201","Électrotechnique","Dr. Y. Amegah",17.49
+760515,"Koffi Lawson","Génie mécanique","RS180","Réseaux avancés","Dr. K. Agbeko",10.73
+992890,"Yao Doe","Informatique et Systèmes","RS180","Réseaux avancés","Dr. M. Kpante",11.56
+252801,"Afi Amegah","Informatique et Systèmes","ME101","Mécanique générale","Dr. M. Kpante",19.73
+407951,"Senam Komlan","Informatique et Systèmes","GL200","Conception logicielle","Pr. L. Mensah",18.85
+131788,"Kossi Doe","IA & Big Data","AI310","Machine Learning","Pr. T. Lawson",16.58
+808897,"Akoua Amegah","Systèmes Réseaux","AI310","Machine Learning","Pr. G. Komlan",13.78
+318795,"Kossi Kpante","SCOM","GL200","Conception logicielle","Dr. K. Agbeko",1.34
+629136,"Amah Mensah","IA & Big Data","CS220","Programmation avancée","Dr. K. Agbeko",3.41
+580888,"Elom Lawson","IA & Big Data","EL201","Électrotechnique","Pr. D. Tchalla",4.44
+849787,"Eyram Tchalla","IA & Big Data","CI150","Calcul scientifique","Pr. T. Lawson",5.98
+377390,"Komi Doe","Génie civil","RS180","Réseaux avancés","Pr. D. Tchalla",0.3
+487901,"Akoua Tchalla","Génie Logiciel","EL201","Électrotechnique","Pr. L. Mensah",0.15
+677543,"Eyram Kpante","Informatique et Systèmes","ME101","Mécanique générale","Pr. D. Tchalla",3.21
+838655,"Elom Lawson","Génie électrique","RS180","Réseaux avancés","Dr. M. Kpante",12.85
+360659,"Yao Agbeko","Génie Logiciel","CS220","Programmation avancée","Dr. M. Kpante",1.89
+643911,"Afi Tchalla","IA & Big Data","RS180","Réseaux avancés","Dr. Y. Amegah",2.42
+523002,"Yao Amegah","Génie Logiciel","RS180","Réseaux avancés","Dr. S. Amouzou",6.24
+773749,"Afi Kpante","Génie Logiciel","ME101","Mécanique générale","Pr. G. Komlan",13.05
+363779,"Akoua Doe","Génie mécanique","CI150","Calcul scientifique","Dr. M. Kpante",1.46
+618194,"Eyram Amegah","IA & Big Data","ME101","Mécanique générale","Dr. K. Agbeko",10.3
+990858,"Koffi Komlan","Informatique et Systèmes","AI310","Machine Learning","Pr. T. Lawson",19.8
+103274,"Koffi Tchalla","Génie civil","CS220","Programmation avancée","Dr. M. Kpante",7.72
+560642,"Kossi Amouzou","Génie mécanique","AI310","Machine Learning","Dr. Y. Amegah",6.42
+774357,"Koffi Amouzou","Informatique et Systèmes","CS220","Programmation avancée","Pr. L. Mensah",10.85
+882002,"Akoua Mensah","SCOM","EL201","Électrotechnique","Dr. M. Kpante",8.52
+565020,"Elom Amegah","Génie mécanique","EL201","Électrotechnique","Dr. Y. Amegah",4.02
+729424,"Abla Amegah","Informatique et Systèmes","CS220","Programmation avancée","Dr. M. Kpante",16.58
+251556,"Senam Kouma","Informatique et Systèmes","GL200","Conception logicielle","Pr. D. Tchalla",7.79
+593330,"Amah Kouma","Informatique et Systèmes","GL200","Conception logicielle","Dr. K. Agbeko",9.22
+897834,"Koffi Komlan","Génie Logiciel","ME101","Mécanique générale","Dr. M. Kpante",2.38
+783090,"Amah Mensah","Systèmes Réseaux","ME101","Mécanique générale","Pr. G. Komlan",12.67
+452447,"Afi Kpante","SCOM","SC120","Théorie des Signaux","Dr. M. Kpante",10.17
+368552,"Elom Amegah","Génie civil","SC120","Théorie des Signaux","Dr. S. Amouzou",0.61
+707515,"Yao Amegah","Génie électrique","RS180","Réseaux avancés","Pr. L. Mensah",18.79
+354906,"Komi Doe","SCOM","CI150","Calcul scientifique","Pr. D. Tchalla",0.69
+317943,"Yao Amegah","Génie civil","CI150","Calcul scientifique","Dr. K. Agbeko",9.88
+778744,"Komi Amegah","Génie Logiciel","SC120","Théorie des Signaux","Pr. G. Komlan",15.47
+234159,"Komi Agbeko","Génie électrique","SC120","Théorie des Signaux","Pr. G. Komlan",17.24
+460577,"Yao Tchalla","Génie électrique","EL201","Électrotechnique","Pr. D. Tchalla",3.54
+824001,"Eyram Lawson","Systèmes Réseaux","GL200","Conception logicielle","Pr. L. Mensah",15.9
+217058,"Kossi Agbeko","Systèmes Réseaux","CI150","Calcul scientifique","Pr. G. Komlan",17.88
+501085,"Senam Tchalla","Informatique et Systèmes","RS180","Réseaux avancés","Dr. Y. Amegah",0.83
+329939,"Kossi Kpante","Systèmes Réseaux","ME101","Mécanique générale","Dr. S. Amouzou",18.06
+644750,"Akoua Amouzou","Génie mécanique","SC120","Théorie des Signaux","Pr. D. Tchalla",3.12
+719687,"Komi Kouma","SCOM","AI310","Machine Learning","Pr. L. Mensah",10.91
+466365,"Komi Mensah","Génie civil","CI150","Calcul scientifique","Pr. L. Mensah",0.65
+450371,"Komi Amouzou","Génie Logiciel","CI150","Calcul scientifique","Pr. D. Tchalla",6.36
+299549,"Akoua Amouzou","Génie civil","CI150","Calcul scientifique","Dr. K. Agbeko",8.16
+304019,"Eyram Kpante","Génie civil","AI310","Machine Learning","Pr. D. Tchalla",10.17
+944207,"Koffi Komlan","Génie Logiciel","CS220","Programmation avancée","Dr. K. Agbeko",11.54
+766519,"Abla Lawson","Systèmes Réseaux","RS180","Réseaux avancés","Pr. L. Mensah",6.02
+177998,"Amah Amegah","SCOM","SC120","Théorie des Signaux","Dr. K. Agbeko",18.33
+284040,"Elom Agbeko","Génie mécanique","ME101","Mécanique générale","Pr. G. Komlan",13.83
+843738,"Kossi Kpante","Informatique et Systèmes","RS180","Réseaux avancés","Dr. M. Kpante",4.84
+270957,"Eyram Komlan","SCOM","ME101","Mécanique générale","Dr. M. Kpante",3.09
+435726,"Abla Amouzou","Génie électrique","EL201","Électrotechnique","Pr. T. Lawson",10.99
+213804,"Senam Doe","Génie civil","GL200","Conception logicielle","Dr. S. Amouzou",16.47
+350000,"Yao Kpante","SCOM","RS180","Réseaux avancés","Dr. Y. Amegah",19.92
+595087,"Eyram Amouzou","Génie électrique","RS180","Réseaux avancés","Dr. K. Agbeko",18.56
+663152,"Komi Doe","IA & Big Data","EL201","Électrotechnique","Dr. Y. Amegah",7.04
+511318,"Amah Kpante","Génie Logiciel","CI150","Calcul scientifique","Pr. T. Lawson",0.53
+513471,"Yao Kpante","Génie civil","CS220","Programmation avancée","Dr. S. Amouzou",9.17
+948878,"Akoua Doe","Génie civil","CI150","Calcul scientifique","Pr. D. Tchalla",1.71
+732562,"Akoua Mensah","Génie Logiciel","RS180","Réseaux avancés","Dr. Y. Amegah",17.37
+278485,"Elom Agbeko","Génie mécanique","CS220","Programmation avancée","Pr. L. Mensah",9.53
+106207,"Yao Mensah","SCOM","CI150","Calcul scientifique","Dr. M. Kpante",6.95
+867424,"Komi Doe","IA & Big Data","GL200","Conception logicielle","Pr. D. Tchalla",12.75
+334059,"Koffi Kpante","Informatique et Systèmes","ME101","Mécanique générale","Dr. M. Kpante",16.49
+532467,"Koffi Amouzou","Génie civil","CI150","Calcul scientifique","Dr. Y. Amegah",1.4
+917086,"Abla Doe","Systèmes Réseaux","GL200","Conception logicielle","Dr. M. Kpante",3.99
+273274,"Elom Amegah","Génie civil","RS180","Réseaux avancés","Pr. L. Mensah",9.16
+674986,"Komi Mensah","Systèmes Réseaux","EL201","Électrotechnique","Pr. G. Komlan",16.4
+576836,"Yao Tchalla","Génie Logiciel","AI310","Machine Learning","Dr. Y. Amegah",2.76
+396176,"Amah Amouzou","Systèmes Réseaux","SC120","Théorie des Signaux","Dr. M. Kpante",1.16
+450770,"Afi Lawson","Informatique et Systèmes","EL201","Électrotechnique","Pr. G. Komlan",1.26
+947007,"Kossi Doe","Génie civil","GL200","Conception logicielle","Dr. S. Amouzou",9.69
+618746,"Koffi Doe","IA & Big Data","CI150","Calcul scientifique","Dr. K. Agbeko",4.1
+200432,"Senam Doe","Systèmes Réseaux","GL200","Conception logicielle","Pr. G. Komlan",14.03
+579037,"Amah Amegah","Génie électrique","GL200","Conception logicielle","Pr. T. Lawson",0.76
+410177,"Abla Tchalla","Systèmes Réseaux","CI150","Calcul scientifique","Dr. S. Amouzou",11.65
+306112,"Afi Komlan","Génie civil","RS180","Réseaux avancés","Dr. S. Amouzou",10.17
+789351,"Eyram Mensah","SCOM","CS220","Programmation avancée","Pr. G. Komlan",9.04
+857849,"Kossi Lawson","Systèmes Réseaux","AI310","Machine Learning","Dr. S. Amouzou",2.0
+124176,"Amah Doe","Génie civil","AI310","Machine Learning","Pr. L. Mensah",4.91
+880152,"Elom Kpante","Génie civil","RS180","Réseaux avancés","Pr. G. Komlan",1.92
+433196,"Afi Kpante","IA & Big Data","CS220","Programmation avancée","Dr. S. Amouzou",6.28
+514132,"Koffi Komlan","Génie mécanique","EL201","Électrotechnique","Dr. K. Agbeko",5.58
+474408,"Komi Doe","IA & Big Data","CS220","Programmation avancée","Dr. Y. Amegah",10.2
+332297,"Akoua Amegah","Génie Logiciel","RS180","Réseaux avancés","Dr. S. Amouzou",7.88
+584442,"Senam Kpante","SCOM","RS180","Réseaux avancés","Pr. G. Komlan",6.8
+978338,"Amah Kpante","Informatique et Systèmes","SC120","Théorie des Signaux","Dr. S. Amouzou",9.94
+188887,"Senam Amouzou","IA & Big Data","AI310","Machine Learning","Pr. L. Mensah",4.08
+728748,"Amah Doe","IA & Big Data","RS180","Réseaux avancés","Pr. G. Komlan",19.22
+554015,"Koffi Komlan","SCOM","RS180","Réseaux avancés","Pr. D. Tchalla",19.29
+762883,"Amah Doe","Génie civil","CI150","Calcul scientifique","Dr. K. Agbeko",16.45
+656590,"Senam Amouzou","IA & Big Data","EL201","Électrotechnique","Dr. M. Kpante",10.35
+605271,"Senam Amegah","Génie électrique","GL200","Conception logicielle","Dr. M. Kpante",6.87
+689946,"Afi Tchalla","IA & Big Data","SC120","Théorie des Signaux","Pr. L. Mensah",13.71
+131633,"Koffi Doe","Génie civil","AI310","Machine Learning","Pr. T. Lawson",9.94
+581834,"Eyram Lawson","Génie mécanique","CS220","Programmation avancée","Dr. Y. Amegah",10.86
+580328,"Senam Amegah","Génie Logiciel","AI310","Machine Learning","Dr. Y. Amegah",12.76
+659540,"Abla Komlan","Systèmes Réseaux","ME101","Mécanique générale","Pr. T. Lawson",13.92
+443186,"Mawuli Amouzou","SCOM","EL201","Électrotechnique","Dr. K. Agbeko",0.91
+828331,"Koffi Doe","Systèmes Réseaux","ME101","Mécanique générale","Dr. M. Kpante",3.59
+774860,"Amah Agbeko","IA & Big Data","GL200","Conception logicielle","Dr. Y. Amegah",7.35
+799440,"Senam Komlan","Génie mécanique","SC120","Théorie des Signaux","Dr. M. Kpante",16.36
+180692,"Elom Mensah","Systèmes Réseaux","ME101","Mécanique générale","Pr. D. Tchalla",7.21
+593009,"Koffi Amegah","Systèmes Réseaux","SC120","Théorie des Signaux","Dr. M. Kpante",11.77
+963503,"Kossi Mensah","Génie mécanique","EL201","Électrotechnique","Pr. D. Tchalla",10.81
+483255,"Koffi Komlan","Systèmes Réseaux","GL200","Conception logicielle","Dr. S. Amouzou",6.04
+860705,"Akoua Agbeko","Génie Logiciel","RS180","Réseaux avancés","Pr. G. Komlan",2.11
+333317,"Eyram Kpante","IA & Big Data","RS180","Réseaux avancés","Pr. G. Komlan",13.81
+435544,"Akoua Kouma","Génie civil","SC120","Théorie des Signaux","Dr. S. Amouzou",4.11
+327387,"Afi Komlan","Génie électrique","ME101","Mécanique générale","Dr. M. Kpante",0.56
+847829,"Abla Mensah","Génie Logiciel","SC120","Théorie des Signaux","Pr. G. Komlan",7.15
+181169,"Akoua Komlan","Génie civil","CS220","Programmation avancée","Dr. K. Agbeko",19.12
+813203,"Eyram Lawson","Génie électrique","AI310","Machine Learning","Dr. M. Kpante",8.13
+922051,"Elom Kpante","Systèmes Réseaux","CI150","Calcul scientifique","Pr. D. Tchalla",7.69
+979175,"Koffi Agbeko","Informatique et Systèmes","EL201","Électrotechnique","Pr. D. Tchalla",12.33
+309481,"Koffi Komlan","Génie civil","AI310","Machine Learning","Dr. K. Agbeko",17.62
+936554,"Yao Amouzou","Génie mécanique","RS180","Réseaux avancés","Dr. K. Agbeko",6.75
+497149,"Koffi Amegah","Génie mécanique","EL201","Électrotechnique","Dr. Y. Amegah",7.88
+893422,"Eyram Amouzou","SCOM","RS180","Réseaux avancés","Dr. S. Amouzou",10.53
+736331,"Abla Agbeko","Génie Logiciel","CI150","Calcul scientifique","Pr. T. Lawson",6.33
+436803,"Amah Lawson","Génie civil","GL200","Conception logicielle","Dr. S. Amouzou",4.26
+764770,"Abla Tchalla","SCOM","ME101","Mécanique générale","Pr. T. Lawson",8.71
+592818,"Elom Komlan","Génie mécanique","ME101","Mécanique générale","Dr. Y. Amegah",15.67
+533400,"Amah Kpante","Informatique et Systèmes","ME101","Mécanique générale","Pr. L. Mensah",14.8
+271612,"Komi Amouzou","SCOM","EL201","Électrotechnique","Pr. D. Tchalla",0.93
+541080,"Abla Amouzou","Génie électrique","RS180","Réseaux avancés","Dr. S. Amouzou",7.71
+438654,"Komi Kpante","IA & Big Data","EL201","Électrotechnique","Dr. K. Agbeko",4.43
+499868,"Afi Mensah","IA & Big Data","EL201","Électrotechnique","Dr. S. Amouzou",1.03
+903802,"Afi Agbeko","Informatique et Systèmes","CS220","Programmation avancée","Dr. K. Agbeko",2.7
+851195,"Koffi Amouzou","Génie Logiciel","AI310","Machine Learning","Dr. M. Kpante",14.37
+459563,"Amah Mensah","Informatique et Systèmes","AI310","Machine Learning","Pr. G. Komlan",4.32
+828620,"Eyram Komlan","Génie Logiciel","GL200","Conception logicielle","Dr. Y. Amegah",11.28
+978248,"Abla Mensah","IA & Big Data","RS180","Réseaux avancés","Pr. T. Lawson",16.59
+495151,"Elom Kouma","Systèmes Réseaux","ME101","Mécanique générale","Dr. S. Amouzou",15.15
+327267,"Abla Mensah","SCOM","SC120","Théorie des Signaux","Pr. T. Lawson",6.76
+525275,"Akoua Amegah","Génie civil","RS180","Réseaux avancés","Dr. M. Kpante",6.68
+519138,"Mawuli Amouzou","Génie mécanique","CS220","Programmation avancée","Dr. S. Amouzou",19.22
+959228,"Afi Agbeko","IA & Big Data","GL200","Conception logicielle","Dr. M. Kpante",2.49
+596835,"Yao Amouzou","Génie électrique","RS180","Réseaux avancés","Pr. L. Mensah",2.08
+560667,"Afi Agbeko","Informatique et Systèmes","AI310","Machine Learning","Pr. T. Lawson",12.04
+489858,"Kossi Agbeko","Génie électrique","GL200","Conception logicielle","Pr. T. Lawson",12.51
+363660,"Eyram Agbeko","SCOM","RS180","Réseaux avancés","Dr. Y. Amegah",5.95
+389084,"Kossi Amegah","Génie civil","AI310","Machine Learning","Pr. T. Lawson",0.71
+755888,"Akoua Lawson","IA & Big Data","SC120","Théorie des Signaux","Dr. S. Amouzou",7.74
+595610,"Amah Kpante","Informatique et Systèmes","CI150","Calcul scientifique","Dr. M. Kpante",10.66
+404897,"Afi Tchalla","Génie mécanique","EL201","Électrotechnique","Dr. S. Amouzou",7.09
+729011,"Komi Mensah","Génie Logiciel","CS220","Programmation avancée","Pr. T. Lawson",2.57
+878778,"Komi Komlan","SCOM","RS180","Réseaux avancés","Pr. G. Komlan",1.63
+127792,"Afi Tchalla","SCOM","CI150","Calcul scientifique","Dr. K. Agbeko",14.07
+573910,"Akoua Kouma","SCOM","EL201","Électrotechnique","Pr. G. Komlan",4.88
+163512,"Koffi Amegah","IA & Big Data","AI310","Machine Learning","Dr. S. Amouzou",16.88
+382964,"Amah Komlan","IA & Big Data","GL200","Conception logicielle","Pr. G. Komlan",14.21
+780143,"Elom Amouzou","Génie civil","CS220","Programmation avancée","Pr. L. Mensah",14.95
+520093,"Koffi Mensah","Informatique et Systèmes","SC120","Théorie des Signaux","Pr. D. Tchalla",16.42
+406689,"Yao Amouzou","Génie civil","GL200","Conception logicielle","Pr. D. Tchalla",0.97
+734852,"Elom Amouzou","Systèmes Réseaux","CS220","Programmation avancée","Dr. S. Amouzou",17.49
+451274,"Yao Amouzou","Génie électrique","CI150","Calcul scientifique","Dr. S. Amouzou",5.43
+390064,"Senam Doe","Génie électrique","CI150","Calcul scientifique","Pr. T. Lawson",11.44
+556507,"Mawuli Amouzou","SCOM","SC120","Théorie des Signaux","Pr. T. Lawson",14.46
+230252,"Eyram Agbeko","SCOM","CI150","Calcul scientifique","Dr. K. Agbeko",1.34
+361156,"Yao Kouma","Informatique et Systèmes","EL201","Électrotechnique","Pr. L. Mensah",6.38
+927790,"Elom Kouma","Génie civil","SC120","Théorie des Signaux","Pr. G. Komlan",15.17
+137208,"Senam Komlan","Génie civil","RS180","Réseaux avancés","Pr. T. Lawson",9.6
+735483,"Elom Komlan","Systèmes Réseaux","ME101","Mécanique générale","Dr. K. Agbeko",16.93
+541575,"Komi Lawson","IA & Big Data","EL201","Électrotechnique","Pr. T. Lawson",14.29
+902391,"Koffi Amouzou","Génie mécanique","GL200","Conception logicielle","Pr. L. Mensah",18.78
+130143,"Abla Amegah","Informatique et Systèmes","GL200","Conception logicielle","Pr. G. Komlan",10.76
+752819,"Mawuli Komlan","SCOM","RS180","Réseaux avancés","Dr. K. Agbeko",18.49
+130569,"Komi Agbeko","Génie civil","RS180","Réseaux avancés","Dr. Y. Amegah",17.7
+347142,"Akoua Komlan","Informatique et Systèmes","ME101","Mécanique générale","Dr. Y. Amegah",2.07
+860102,"Kossi Tchalla","Génie mécanique","CS220","Programmation avancée","Pr. T. Lawson",11.33
+477029,"Senam Komlan","Génie mécanique","RS180","Réseaux avancés","Dr. S. Amouzou",15.46
+866205,"Senam Kpante","Systèmes Réseaux","EL201","Électrotechnique","Pr. T. Lawson",17.35
+750830,"Afi Komlan","Informatique et Systèmes","SC120","Théorie des Signaux","Dr. M. Kpante",16.08
+896240,"Afi Amegah","IA & Big Data","ME101","Mécanique générale","Pr. L. Mensah",11.31
+518893,"Mawuli Amegah","Génie Logiciel","GL200","Conception logicielle","Pr. D. Tchalla",16.91
+453884,"Koffi Komlan","Systèmes Réseaux","RS180","Réseaux avancés","Pr. D. Tchalla",5.28
+844401,"Afi Kouma","Génie civil","EL201","Électrotechnique","Pr. G. Komlan",9.21
+574801,"Senam Kouma","Génie civil","ME101","Mécanique générale","Pr. G. Komlan",18.02
+981700,"Amah Komlan","Génie Logiciel","GL200","Conception logicielle","Dr. S. Amouzou",8.94
+344217,"Afi Kouma","Informatique et Systèmes","ME101","Mécanique générale","Dr. K. Agbeko",18.51
+747763,"Afi Amegah","Génie électrique","ME101","Mécanique générale","Pr. T. Lawson",8.95
+313781,"Elom Mensah","SCOM","CS220","Programmation avancée","Dr. Y. Amegah",0.34
+907016,"Eyram Amegah","Génie Logiciel","CI150","Calcul scientifique","Dr. K. Agbeko",9.71
+223735,"Mawuli Doe","Systèmes Réseaux","CS220","Programmation avancée","Dr. M. Kpante",9.78
+536707,"Koffi Mensah","Génie civil","SC120","Théorie des Signaux","Dr. M. Kpante",17.89
+161820,"Afi Kpante","SCOM","GL200","Conception logicielle","Pr. L. Mensah",18.35
+198387,"Koffi Kouma","SCOM","CS220","Programmation avancée","Pr. T. Lawson",18.76
+222292,"Akoua Lawson","SCOM","ME101","Mécanique générale","Pr. L. Mensah",0.44
+349116,"Senam Lawson","Systèmes Réseaux","SC120","Théorie des Signaux","Pr. L. Mensah",11.06
+368270,"Senam Doe","IA & Big Data","SC120","Théorie des Signaux","Pr. L. Mensah",11.56
+831225,"Abla Mensah","Génie Logiciel","CI150","Calcul scientifique","Pr. T. Lawson",2.03
+626297,"Amah Kpante","Systèmes Réseaux","AI310","Machine Learning","Dr. M. Kpante",14.74
+612296,"Komi Tchalla","Génie mécanique","EL201","Électrotechnique","Dr. K. Agbeko",11.65
+679583,"Amah Kpante","Génie mécanique","GL200","Conception logicielle","Dr. S. Amouzou",16.98
+271083,"Afi Agbeko","Informatique et Systèmes","GL200","Conception logicielle","Dr. M. Kpante",11.18
+242119,"Amah Kouma","IA & Big Data","ME101","Mécanique générale","Pr. D. Tchalla",2.89
+159259,"Eyram Agbeko","SCOM","SC120","Théorie des Signaux","Dr. S. Amouzou",2.1
+786343,"Abla Tchalla","Génie civil","EL201","Électrotechnique","Dr. K. Agbeko",10.03
+698628,"Komi Agbeko","Génie civil","CI150","Calcul scientifique","Dr. M. Kpante",14.23
+551984,"Kossi Tchalla","Systèmes Réseaux","GL200","Conception logicielle","Dr. S. Amouzou",12.86
+588546,"Kossi Mensah","Génie électrique","RS180","Réseaux avancés","Dr. Y. Amegah",13.88
+798098,"Kossi Kpante","Génie mécanique","AI310","Machine Learning","Dr. M. Kpante",8.81
+727713,"Kossi Tchalla","Systèmes Réseaux","CI150","Calcul scientifique","Pr. G. Komlan",6.51
+686571,"Amah Kouma","SCOM","SC120","Théorie des Signaux","Dr. Y. Amegah",0.8
+924648,"Senam Mensah","IA & Big Data","AI310","Machine Learning","Dr. Y. Amegah",12.26
+926472,"Komi Amegah","Génie mécanique","SC120","Théorie des Signaux","Pr. G. Komlan",13.78
+739636,"Eyram Lawson","SCOM","CS220","Programmation avancée","Pr. G. Komlan",19.79
+168444,"Eyram Amegah","Systèmes Réseaux","SC120","Théorie des Signaux","Dr. S. Amouzou",19.64
+369863,"Amah Kpante","Informatique et Systèmes","CS220","Programmation avancée","Pr. T. Lawson",0.7
+934354,"Amah Amouzou","Génie électrique","GL200","Conception logicielle","Dr. Y. Amegah",17.56
+881922,"Amah Agbeko","Génie mécanique","EL201","Électrotechnique","Dr. K. Agbeko",14.6
+810094,"Kossi Kpante","SCOM","AI310","Machine Learning","Pr. L. Mensah",9.9
+718873,"Komi Kouma","Génie électrique","EL201","Électrotechnique","Dr. K. Agbeko",5.06
+119574,"Amah Kouma","Systèmes Réseaux","CI150","Calcul scientifique","Dr. K. Agbeko",7.69
+145000,"Akoua Tchalla","Génie Logiciel","AI310","Machine Learning","Dr. M. Kpante",11.13
+211432,"Yao Kpante","Systèmes Réseaux","EL201","Électrotechnique","Dr. S. Amouzou",0.33
+405010,"Kossi Mensah","SCOM","ME101","Mécanique générale","Dr. S. Amouzou",18.72
+152116,"Koffi Kouma","Génie Logiciel","AI310","Machine Learning","Dr. S. Amouzou",12.75
+845518,"Afi Kouma","SCOM","CS220","Programmation avancée","Pr. T. Lawson",15.69
+897828,"Komi Amegah","Systèmes Réseaux","CS220","Programmation avancée","Dr. K. Agbeko",16.72
+975592,"Eyram Doe","Systèmes Réseaux","EL201","Électrotechnique","Pr. T. Lawson",19.72
+938070,"Elom Doe","Génie électrique","RS180","Réseaux avancés","Dr. Y. Amegah",16.49
+969985,"Abla Amegah","IA & Big Data","GL200","Conception logicielle","Pr. L. Mensah",9.71
+240395,"Eyram Amouzou","SCOM","ME101","Mécanique générale","Pr. D. Tchalla",1.24
+562450,"Mawuli Tchalla","IA & Big Data","GL200","Conception logicielle","Dr. Y. Amegah",15.0
+641841,"Koffi Kouma","Systèmes Réseaux","SC120","Théorie des Signaux","Pr. T. Lawson",0.89
+178349,"Eyram Amouzou","Génie Logiciel","RS180","Réseaux avancés","Pr. G. Komlan",3.18
+250465,"Senam Agbeko","Systèmes Réseaux","SC120","Théorie des Signaux","Dr. M. Kpante",5.11
+105817,"Koffi Tchalla","Génie mécanique","EL201","Électrotechnique","Pr. L. Mensah",3.65
+985520,"Afi Tchalla","Génie électrique","SC120","Théorie des Signaux","Pr. D. Tchalla",9.3
+600002,"Abla Agbeko","Génie Logiciel","AI310","Machine Learning","Pr. T. Lawson",19.62
+966377,"Koffi Doe","Systèmes Réseaux","GL200","Conception logicielle","Pr. L. Mensah",3.12
+211868,"Senam Amouzou","Génie électrique","CI150","Calcul scientifique","Dr. Y. Amegah",19.11
+211013,"Mawuli Lawson","Génie mécanique","SC120","Théorie des Signaux","Dr. S. Amouzou",6.56
+419737,"Kossi Agbeko","IA & Big Data","EL201","Électrotechnique","Pr. T. Lawson",4.62
+786897,"Eyram Kouma","Informatique et Systèmes","CI150","Calcul scientifique","Dr. Y. Amegah",3.58
+443172,"Abla Lawson","Génie civil","SC120","Théorie des Signaux","Pr. L. Mensah",13.66
+295005,"Abla Amegah","Informatique et Systèmes","EL201","Électrotechnique","Pr. D. Tchalla",1.74
+190501,"Amah Kouma","Génie mécanique","GL200","Conception logicielle","Dr. Y. Amegah",16.1
+978761,"Komi Lawson","Génie mécanique","GL200","Conception logicielle","Dr. Y. Amegah",4.96
+946418,"Kossi Kouma","Systèmes Réseaux","CS220","Programmation avancée","Dr. S. Amouzou",10.24
+110545,"Elom Komlan","Informatique et Systèmes","ME101","Mécanique générale","Pr. T. Lawson",14.8
+513230,"Mawuli Mensah","Informatique et Systèmes","SC120","Théorie des Signaux","Dr. K. Agbeko",0.66
+851937,"Yao Kouma","Génie civil","AI310","Machine Learning","Dr. S. Amouzou",11.21
+701907,"Senam Kouma","Systèmes Réseaux","CS220","Programmation avancée","Pr. L. Mensah",6.77
+614893,"Amah Amegah","Génie électrique","AI310","Machine Learning","Dr. M. Kpante",3.75
+701318,"Elom Kpante","IA & Big Data","CI150","Calcul scientifique","Pr. D. Tchalla",15.66
+447480,"Komi Amegah","SCOM","SC120","Théorie des Signaux","Pr. D. Tchalla",19.47
+405878,"Koffi Lawson","Informatique et Systèmes","ME101","Mécanique générale","Dr. Y. Amegah",7.11
+522792,"Senam Doe","Génie électrique","CS220","Programmation avancée","Dr. Y. Amegah",2.05
+680172,"Eyram Tchalla","IA & Big Data","SC120","Théorie des Signaux","Pr. G. Komlan",16.35
+826815,"Komi Mensah","Systèmes Réseaux","CI150","Calcul scientifique","Pr. L. Mensah",15.78
+110177,"Akoua Mensah","Génie électrique","CI150","Calcul scientifique","Dr. M. Kpante",17.55
+682279,"Akoua Amegah","Systèmes Réseaux","SC120","Théorie des Signaux","Pr. T. Lawson",6.01
+873332,"Senam Kpante","Systèmes Réseaux","GL200","Conception logicielle","Pr. G. Komlan",12.76
+447677,"Kossi Amegah","Génie Logiciel","GL200","Conception logicielle","Dr. Y. Amegah",12.37
+741544,"Yao Agbeko","Génie électrique","AI310","Machine Learning","Dr. S. Amouzou",5.84
+898677,"Akoua Mensah","Génie civil","AI310","Machine Learning","Pr. D. Tchalla",11.66
+612544,"Kossi Amouzou","Informatique et Systèmes","GL200","Conception logicielle","Pr. D. Tchalla",1.86
+608025,"Elom Kpante","Génie Logiciel","RS180","Réseaux avancés","Dr. Y. Amegah",3.76
+962539,"Elom Lawson","Informatique et Systèmes","AI310","Machine Learning","Pr. G. Komlan",15.55
+752626,"Koffi Agbeko","IA & Big Data","CS220","Programmation avancée","Dr. M. Kpante",18.55
+764330,"Koffi Kpante","Génie civil","CI150","Calcul scientifique","Dr. S. Amouzou",0.88
+797990,"Eyram Doe","Génie électrique","CS220","Programmation avancée","Dr. M. Kpante",11.51
+290463,"Afi Tchalla","Génie civil","EL201","Électrotechnique","Dr. M. Kpante",15.43
+186252,"Elom Doe","Génie civil","ME101","Mécanique générale","Dr. M. Kpante",15.65
+466140,"Mawuli Amegah","Génie civil","AI310","Machine Learning","Dr. S. Amouzou",4.39
+841993,"Komi Doe","Génie mécanique","SC120","Théorie des Signaux","Dr. S. Amouzou",5.8
+144112,"Yao Komlan","IA & Big Data","GL200","Conception logicielle","Dr. M. Kpante",7.27
+147550,"Komi Agbeko","Génie Logiciel","ME101","Mécanique générale","Pr. L. Mensah",13.31
+721504,"Kossi Kouma","IA & Big Data","SC120","Théorie des Signaux","Pr. G. Komlan",1.75
+265123,"Komi Agbeko","Génie mécanique","EL201","Électrotechnique","Dr. M. Kpante",13.0
+385659,"Abla Doe","SCOM","EL201","Électrotechnique","Pr. L. Mensah",2.87
+938283,"Kossi Lawson","IA & Big Data","CS220","Programmation avancée","Dr. Y. Amegah",19.48
+744795,"Koffi Amouzou","Informatique et Systèmes","SC120","Théorie des Signaux","Dr. M. Kpante",0.58
+232665,"Akoua Agbeko","Génie électrique","GL200","Conception logicielle","Pr. L. Mensah",11.24
+203576,"Koffi Agbeko","SCOM","ME101","Mécanique générale","Pr. D. Tchalla",14.41
+996074,"Senam Komlan","Génie mécanique","SC120","Théorie des Signaux","Dr. Y. Amegah",0.02
+508864,"Yao Doe","Génie mécanique","AI310","Machine Learning","Dr. K. Agbeko",2.11
+909395,"Afi Doe","IA & Big Data","SC120","Théorie des Signaux","Dr. S. Amouzou",9.45
+513135,"Afi Lawson","Génie électrique","CS220","Programmation avancée","Pr. D. Tchalla",14.47
+337731,"Kossi Amegah","Génie Logiciel","ME101","Mécanique générale","Dr. K. Agbeko",15.85
+314607,"Mawuli Doe","Informatique et Systèmes","GL200","Conception logicielle","Pr. G. Komlan",5.25
+980847,"Komi Komlan","Génie mécanique","CI150","Calcul scientifique","Pr. L. Mensah",17.29
+217503,"Mawuli Agbeko","Génie Logiciel","SC120","Théorie des Signaux","Pr. T. Lawson",2.62
+389986,"Eyram Doe","Génie mécanique","GL200","Conception logicielle","Pr. L. Mensah",9.2
+181187,"Kossi Tchalla","SCOM","CI150","Calcul scientifique","Pr. G. Komlan",18.21
+433582,"Amah Mensah","Génie mécanique","CS220","Programmation avancée","Dr. M. Kpante",11.91
+682423,"Senam Komlan","Informatique et Systèmes","EL201","Électrotechnique","Dr. K. Agbeko",11.31
+664035,"Amah Komlan","SCOM","EL201","Électrotechnique","Pr. G. Komlan",15.67
+334823,"Mawuli Kouma","Informatique et Systèmes","ME101","Mécanique générale","Dr. Y. Amegah",14.65
+212536,"Komi Komlan","Informatique et Systèmes","RS180","Réseaux avancés","Dr. Y. Amegah",0.66
+629802,"Eyram Tchalla","SCOM","EL201","Électrotechnique","Dr. S. Amouzou",8.33
+257134,"Koffi Amouzou","SCOM","SC120","Théorie des Signaux","Pr. D. Tchalla",3.74
+697326,"Amah Kpante","Systèmes Réseaux","GL200","Conception logicielle","Dr. S. Amouzou",19.47
+317071,"Eyram Kpante","SCOM","SC120","Théorie des Signaux","Dr. S. Amouzou",4.3
+376432,"Akoua Kouma","Systèmes Réseaux","RS180","Réseaux avancés","Pr. G. Komlan",6.88
+658783,"Afi Kouma","Systèmes Réseaux","RS180","Réseaux avancés","Dr. K. Agbeko",15.24
+848460,"Afi Komlan","IA & Big Data","SC120","Théorie des Signaux","Pr. D. Tchalla",9.05
+944840,"Elom Amegah","IA & Big Data","ME101","Mécanique générale","Dr. K. Agbeko",15.89
+231397,"Amah Lawson","SCOM","ME101","Mécanique générale","Dr. M. Kpante",16.86
+716165,"Eyram Mensah","Génie mécanique","EL201","Électrotechnique","Dr. K. Agbeko",12.12
+182952,"Amah Tchalla","Génie civil","AI310","Machine Learning","Dr. M. Kpante",11.89
+485066,"Abla Amouzou","Génie Logiciel","AI310","Machine Learning","Pr. T. Lawson",19.02
+353227,"Amah Tchalla","Génie électrique","AI310","Machine Learning","Dr. S. Amouzou",17.28
+622736,"Akoua Tchalla","Systèmes Réseaux","CI150","Calcul scientifique","Dr. K. Agbeko",8.87
+957146,"Eyram Tchalla","Génie mécanique","AI310","Machine Learning","Dr. M. Kpante",10.99
+486290,"Abla Kpante","Génie Logiciel","AI310","Machine Learning","Dr. K. Agbeko",7.15
+758968,"Komi Amegah","Génie électrique","GL200","Conception logicielle","Dr. M. Kpante",2.69
+561656,"Mawuli Kpante","Génie Logiciel","CI150","Calcul scientifique","Dr. K. Agbeko",11.29
+650853,"Yao Kouma","SCOM","CS220","Programmation avancée","Pr. L. Mensah",6.58
+557129,"Akoua Mensah","Systèmes Réseaux","EL201","Électrotechnique","Dr. Y. Amegah",7.42
+990134,"Senam Doe","Génie Logiciel","RS180","Réseaux avancés","Dr. K. Agbeko",6.48
+685348,"Afi Tchalla","IA & Big Data","CI150","Calcul scientifique","Pr. T. Lawson",3.11
+499318,"Akoua Mensah","Informatique et Systèmes","GL200","Conception logicielle","Dr. M. Kpante",17.78
+862126,"Mawuli Komlan","Génie civil","EL201","Électrotechnique","Dr. K. Agbeko",16.12
+143306,"Kossi Agbeko","Informatique et Systèmes","AI310","Machine Learning","Dr. K. Agbeko",16.4
+473634,"Elom Amouzou","SCOM","CI150","Calcul scientifique","Dr. M. Kpante",2.54
+198359,"Afi Tchalla","Informatique et Systèmes","AI310","Machine Learning","Pr. L. Mensah",17.22
+210087,"Yao Agbeko","Informatique et Systèmes","SC120","Théorie des Signaux","Pr. G. Komlan",16.68
+253361,"Komi Komlan","Informatique et Systèmes","CS220","Programmation avancée","Pr. G. Komlan",19.48
+401636,"Afi Kouma","SCOM","ME101","Mécanique générale","Pr. D. Tchalla",16.67
+408173,"Amah Tchalla","Systèmes Réseaux","RS180","Réseaux avancés","Dr. S. Amouzou",15.64
+532295,"Amah Kpante","Informatique et Systèmes","EL201","Électrotechnique","Pr. T. Lawson",2.64
+308945,"Koffi Agbeko","Génie mécanique","GL200","Conception logicielle","Dr. Y. Amegah",12.75
+291694,"Amah Mensah","Systèmes Réseaux","RS180","Réseaux avancés","Pr. D. Tchalla",15.65
+989143,"Elom Amegah","SCOM","ME101","Mécanique générale","Dr. S. Amouzou",11.01
+340168,"Elom Kouma","Génie électrique","CS220","Programmation avancée","Dr. Y. Amegah",7.71
+889397,"Amah Kpante","Génie Logiciel","CI150","Calcul scientifique","Dr. S. Amouzou",13.35
+803836,"Amah Lawson","Informatique et Systèmes","RS180","Réseaux avancés","Pr. G. Komlan",6.08
+787638,"Akoua Amegah","SCOM","CI150","Calcul scientifique","Pr. G. Komlan",14.62
+695804,"Mawuli Tchalla","Systèmes Réseaux","CI150","Calcul scientifique","Pr. D. Tchalla",1.64
+192305,"Koffi Amouzou","Génie mécanique","EL201","Électrotechnique","Pr. L. Mensah",7.14
+341064,"Afi Doe","IA & Big Data","GL200","Conception logicielle","Pr. L. Mensah",6.97
+186819,"Elom Kpante","Génie civil","CS220","Programmation avancée","Dr. M. Kpante",16.62
+993658,"Kossi Agbeko","Génie Logiciel","RS180","Réseaux avancés","Dr. S. Amouzou",13.17
+627868,"Senam Agbeko","Génie Logiciel","SC120","Théorie des Signaux","Dr. M. Kpante",14.8
+599530,"Senam Tchalla","Informatique et Systèmes","AI310","Machine Learning","Dr. M. Kpante",3.1
+983621,"Elom Amouzou","Génie électrique","EL201","Électrotechnique","Dr. Y. Amegah",5.7
+249829,"Komi Amegah","SCOM","AI310","Machine Learning","Dr. K. Agbeko",2.59
+742407,"Elom Tchalla","Génie mécanique","ME101","Mécanique générale","Pr. G. Komlan",1.21
+789467,"Komi Mensah","Systèmes Réseaux","EL201","Électrotechnique","Pr. T. Lawson",13.32
+860612,"Abla Mensah","IA & Big Data","GL200","Conception logicielle","Dr. Y. Amegah",9.72
+341338,"Elom Kouma","Systèmes Réseaux","ME101","Mécanique générale","Dr. S. Amouzou",12.03
+570586,"Kossi Amegah","Génie électrique","SC120","Théorie des Signaux","Pr. D. Tchalla",9.22
+510693,"Koffi Amegah","SCOM","CI150","Calcul scientifique","Dr. S. Amouzou",8.96
+822457,"Eyram Mensah","Génie mécanique","RS180","Réseaux avancés","Dr. Y. Amegah",11.18
+314274,"Koffi Doe","Génie mécanique","ME101","Mécanique générale","Dr. K. Agbeko",0.06
+173841,"Komi Agbeko","Génie Logiciel","AI310","Machine Learning","Dr. S. Amouzou",4.47
+925573,"Afi Lawson","Systèmes Réseaux","AI310","Machine Learning","Dr. Y. Amegah",7.76
+774163,"Koffi Amouzou","Génie Logiciel","RS180","Réseaux avancés","Pr. T. Lawson",10.9
+548799,"Komi Mensah","Génie mécanique","AI310","Machine Learning","Pr. G. Komlan",13.45
+181616,"Elom Agbeko","Systèmes Réseaux","AI310","Machine Learning","Dr. Y. Amegah",10.15
+977742,"Yao Amouzou","Informatique et Systèmes","ME101","Mécanique générale","Pr. L. Mensah",0.95
+240533,"Senam Mensah","Génie électrique","RS180","Réseaux avancés","Dr. S. Amouzou",13.12
+645960,"Mawuli Kouma","Génie mécanique","GL200","Conception logicielle","Pr. D. Tchalla",16.08
+217311,"Komi Lawson","IA & Big Data","ME101","Mécanique générale","Dr. K. Agbeko",2.25
+133349,"Elom Komlan","Génie électrique","CI150","Calcul scientifique","Pr. D. Tchalla",19.0
+190646,"Elom Mensah","Informatique et Systèmes","CS220","Programmation avancée","Dr. S. Amouzou",1.99
+307083,"Mawuli Mensah","Systèmes Réseaux","SC120","Théorie des Signaux","Dr. S. Amouzou",4.89
+446308,"Mawuli Mensah","Informatique et Systèmes","EL201","Électrotechnique","Pr. D. Tchalla",0.19
+754692,"Abla Agbeko","IA & Big Data","EL201","Électrotechnique","Dr. Y. Amegah",4.83
+180188,"Elom Doe","Génie Logiciel","ME101","Mécanique générale","Dr. M. Kpante",0.33
+231586,"Abla Kouma","Génie mécanique","CI150","Calcul scientifique","Dr. K. Agbeko",15.3
+269226,"Abla Komlan","Génie mécanique","CI150","Calcul scientifique","Pr. T. Lawson",12.58
+135680,"Mawuli Amegah","Informatique et Systèmes","AI310","Machine Learning","Dr. K. Agbeko",18.33
+273500,"Abla Kpante","Génie civil","GL200","Conception logicielle","Pr. L. Mensah",16.49
+207039,"Amah Doe","SCOM","ME101","Mécanique générale","Pr. T. Lawson",14.41
+280281,"Senam Tchalla","Génie mécanique","CI150","Calcul scientifique","Pr. T. Lawson",19.26
+308871,"Elom Mensah","SCOM","ME101","Mécanique générale","Pr. T. Lawson",4.32
+714931,"Akoua Amegah","Génie Logiciel","SC120","Théorie des Signaux","Pr. T. Lawson",16.95
+346664,"Eyram Doe","SCOM","GL200","Conception logicielle","Pr. T. Lawson",17.13
+598557,"Elom Agbeko","Systèmes Réseaux","RS180","Réseaux avancés","Pr. G. Komlan",15.03
+820963,"Kossi Komlan","Génie civil","RS180","Réseaux avancés","Pr. L. Mensah",9.11
+871979,"Amah Lawson","Systèmes Réseaux","CI150","Calcul scientifique","Pr. T. Lawson",17.3
+510787,"Kossi Kpante","Informatique et Systèmes","SC120","Théorie des Signaux","Dr. S. Amouzou",12.22
+292462,"Mawuli Amouzou","Systèmes Réseaux","CI150","Calcul scientifique","Dr. K. Agbeko",15.35
+561866,"Yao Kpante","IA & Big Data","EL201","Électrotechnique","Pr. T. Lawson",6.91
+677813,"Elom Amouzou","Génie Logiciel","SC120","Théorie des Signaux","Dr. S. Amouzou",8.91
+694623,"Yao Amouzou","Génie mécanique","CS220","Programmation avancée","Pr. L. Mensah",1.47
+937217,"Eyram Mensah","Génie civil","RS180","Réseaux avancés","Pr. G. Komlan",2.85
+172987,"Eyram Mensah","Génie mécanique","RS180","Réseaux avancés","Dr. K. Agbeko",7.45
+121121,"Koffi Doe","Systèmes Réseaux","CS220","Programmation avancée","Pr. T. Lawson",5.74
+352702,"Afi Kouma","Systèmes Réseaux","EL201","Électrotechnique","Pr. D. Tchalla",19.17
+536850,"Eyram Amouzou","IA & Big Data","SC120","Théorie des Signaux","Dr. Y. Amegah",13.61
+990420,"Akoua Amegah","Systèmes Réseaux","EL201","Électrotechnique","Pr. D. Tchalla",4.26
+957593,"Mawuli Agbeko","Génie civil","RS180","Réseaux avancés","Pr. G. Komlan",10.72
+363967,"Senam Mensah","Informatique et Systèmes","RS180","Réseaux avancés","Dr. K. Agbeko",7.65
+679394,"Akoua Lawson","Génie Logiciel","GL200","Conception logicielle","Dr. K. Agbeko",3.06
+474680,"Kossi Lawson","Génie civil","EL201","Électrotechnique","Dr. M. Kpante",9.44
+261940,"Kossi Kpante","Génie Logiciel","RS180","Réseaux avancés","Pr. T. Lawson",4.35
+347847,"Afi Doe","Génie civil","SC120","Théorie des Signaux","Dr. Y. Amegah",17.85
+784505,"Abla Komlan","Génie mécanique","SC120","Théorie des Signaux","Dr. M. Kpante",8.97
+165917,"Yao Kpante","Génie électrique","GL200","Conception logicielle","Pr. D. Tchalla",2.5
+935737,"Abla Amegah","Génie mécanique","ME101","Mécanique générale","Pr. D. Tchalla",8.75
+601257,"Akoua Kpante","Génie mécanique","GL200","Conception logicielle","Dr. M. Kpante",17.85
+793825,"Yao Doe","Génie civil","CS220","Programmation avancée","Pr. T. Lawson",4.8
+686187,"Koffi Doe","Informatique et Systèmes","CI150","Calcul scientifique","Pr. G. Komlan",16.49
+345780,"Senam Amegah","Génie civil","EL201","Électrotechnique","Pr. L. Mensah",17.92
+784020,"Amah Mensah","SCOM","CI150","Calcul scientifique","Dr. S. Amouzou",6.39
+991675,"Kossi Kpante","Génie électrique","ME101","Mécanique générale","Dr. K. Agbeko",6.18
+713000,"Elom Mensah","Génie civil","SC120","Théorie des Signaux","Pr. T. Lawson",4.9
+733915,"Kossi Kpante","Génie civil","ME101","Mécanique générale","Pr. D. Tchalla",1.24
+162549,"Elom Tchalla","Génie civil","CS220","Programmation avancée","Pr. T. Lawson",4.07
+232591,"Amah Tchalla","IA & Big Data","ME101","Mécanique générale","Dr. S. Amouzou",9.28
+838222,"Senam Mensah","Génie électrique","SC120","Théorie des Signaux","Dr. K. Agbeko",6.09
+877978,"Kossi Agbeko","IA & Big Data","EL201","Électrotechnique","Pr. G. Komlan",13.32
+204749,"Senam Amegah","Génie électrique","AI310","Machine Learning","Pr. L. Mensah",7.61
+381273,"Eyram Amegah","Génie Logiciel","AI310","Machine Learning","Pr. L. Mensah",11.33
+125366,"Akoua Doe","Informatique et Systèmes","ME101","Mécanique générale","Dr. K. Agbeko",1.05
+137802,"Mawuli Kouma","Génie Logiciel","CS220","Programmation avancée","Dr. M. Kpante",11.84
+913774,"Elom Agbeko","Génie électrique","AI310","Machine Learning","Pr. D. Tchalla",8.75
+831209,"Akoua Amegah","SCOM","AI310","Machine Learning","Pr. D. Tchalla",8.9
+662497,"Mawuli Amegah","Génie Logiciel","AI310","Machine Learning","Pr. L. Mensah",11.28
+782205,"Akoua Komlan","IA & Big Data","CS220","Programmation avancée","Pr. D. Tchalla",13.44
+305509,"Senam Amouzou","SCOM","ME101","Mécanique générale","Pr. L. Mensah",5.63
+573165,"Koffi Amegah","Informatique et Systèmes","SC120","Théorie des Signaux","Dr. S. Amouzou",17.93
+673721,"Abla Mensah","SCOM","SC120","Théorie des Signaux","Dr. M. Kpante",13.04
+360470,"Abla Amegah","Génie électrique","CI150","Calcul scientifique","Pr. G. Komlan",12.66
+472845,"Mawuli Amegah","Systèmes Réseaux","RS180","Réseaux avancés","Dr. S. Amouzou",1.46
+753701,"Akoua Doe","Génie mécanique","AI310","Machine Learning","Pr. D. Tchalla",10.54
+399596,"Yao Agbeko","SCOM","CI150","Calcul scientifique","Pr. T. Lawson",5.95
+269075,"Koffi Amegah","Génie mécanique","AI310","Machine Learning","Dr. M. Kpante",6.63
+702486,"Abla Lawson","Génie mécanique","CI150","Calcul scientifique","Pr. L. Mensah",13.85
+590807,"Eyram Mensah","Génie mécanique","EL201","Électrotechnique","Dr. S. Amouzou",5.94
+239764,"Elom Amouzou","Génie civil","SC120","Théorie des Signaux","Pr. D. Tchalla",3.55
+805227,"Akoua Doe","IA & Big Data","SC120","Théorie des Signaux","Pr. L. Mensah",11.78
+215919,"Akoua Agbeko","Génie mécanique","CI150","Calcul scientifique","Dr. S. Amouzou",3.91
+201175,"Yao Lawson","Génie civil","GL200","Conception logicielle","Pr. T. Lawson",8.67
+531913,"Amah Mensah","Génie mécanique","AI310","Machine Learning","Pr. G. Komlan",8.1
+309929,"Yao Doe","Génie mécanique","CI150","Calcul scientifique","Pr. L. Mensah",6.22
+258902,"Yao Kouma","Génie Logiciel","SC120","Théorie des Signaux","Pr. G. Komlan",13.24
+840455,"Abla Komlan","SCOM","CS220","Programmation avancée","Pr. L. Mensah",3.25
+198573,"Yao Kouma","Génie civil","ME101","Mécanique générale","Pr. G. Komlan",0.05
+405741,"Abla Amegah","Génie électrique","SC120","Théorie des Signaux","Pr. L. Mensah",10.34
+858736,"Senam Lawson","Génie Logiciel","SC120","Théorie des Signaux","Dr. S. Amouzou",9.76
+456959,"Amah Lawson","Génie civil","CS220","Programmation avancée","Pr. G. Komlan",4.96
+818221,"Afi Kpante","Génie électrique","AI310","Machine Learning","Pr. G. Komlan",15.99
+764462,"Elom Komlan","Génie civil","ME101","Mécanique générale","Dr. Y. Amegah",19.75
+901100,"Mawuli Amegah","SCOM","RS180","Réseaux avancés","Dr. S. Amouzou",11.36
+804474,"Eyram Doe","Génie mécanique","GL200","Conception logicielle","Pr. D. Tchalla",0.77
+317862,"Amah Tchalla","Génie Logiciel","CI150","Calcul scientifique","Pr. T. Lawson",13.22
+886713,"Yao Agbeko","Systèmes Réseaux","EL201","Électrotechnique","Dr. M. Kpante",12.65
+331429,"Koffi Tchalla","Génie électrique","ME101","Mécanique générale","Dr. Y. Amegah",4.34
+124363,"Komi Agbeko","Systèmes Réseaux","RS180","Réseaux avancés","Dr. K. Agbeko",10.69
+139940,"Senam Mensah","Informatique et Systèmes","AI310","Machine Learning","Pr. G. Komlan",8.91
+870915,"Yao Komlan","Génie Logiciel","AI310","Machine Learning","Dr. K. Agbeko",9.9
+267302,"Koffi Tchalla","IA & Big Data","CI150","Calcul scientifique","Pr. G. Komlan",17.62
+398586,"Elom Doe","Systèmes Réseaux","CI150","Calcul scientifique","Pr. T. Lawson",0.85
+914129,"Akoua Amouzou","Génie mécanique","GL200","Conception logicielle","Pr. G. Komlan",0.4
+597506,"Abla Doe","Génie électrique","GL200","Conception logicielle","Pr. L. Mensah",6.72
+588385,"Mawuli Tchalla","Systèmes Réseaux","GL200","Conception logicielle","Dr. Y. Amegah",0.5
+407340,"Eyram Mensah","Génie Logiciel","RS180","Réseaux avancés","Pr. L. Mensah",13.38
+265864,"Abla Komlan","Systèmes Réseaux","RS180","Réseaux avancés","Pr. T. Lawson",10.06
+861383,"Afi Komlan","Informatique et Systèmes","CI150","Calcul scientifique","Pr. L. Mensah",16.99
+710369,"Komi Tchalla","Systèmes Réseaux","GL200","Conception logicielle","Dr. S. Amouzou",18.47
+333178,"Mawuli Doe","IA & Big Data","CS220","Programmation avancée","Pr. T. Lawson",6.33
+505766,"Senam Agbeko","Génie électrique","EL201","Électrotechnique","Dr. M. Kpante",7.43
+317685,"Mawuli Mensah","Systèmes Réseaux","CS220","Programmation avancée","Pr. T. Lawson",18.7
+936428,"Komi Kouma","SCOM","ME101","Mécanique générale","Dr. Y. Amegah",10.8
+348700,"Yao Amouzou","IA & Big Data","CI150","Calcul scientifique","Pr. L. Mensah",8.22
+167338,"Koffi Doe","Génie civil","RS180","Réseaux avancés","Dr. K. Agbeko",11.98
+139178,"Amah Amouzou","Génie civil","EL201","Électrotechnique","Dr. Y. Amegah",6.24
+854905,"Afi Amouzou","Systèmes Réseaux","SC120","Théorie des Signaux","Dr. K. Agbeko",10.47
+187091,"Abla Amouzou","SCOM","GL200","Conception logicielle","Pr. D. Tchalla",6.81
+583709,"Yao Komlan","Génie mécanique","EL201","Électrotechnique","Dr. S. Amouzou",2.17
+244429,"Yao Amouzou","Génie civil","AI310","Machine Learning","Pr. T. Lawson",17.26
+817469,"Eyram Komlan","IA & Big Data","GL200","Conception logicielle","Dr. Y. Amegah",12.13
+162473,"Koffi Tchalla","Génie électrique","CS220","Programmation avancée","Dr. S. Amouzou",1.0
+432115,"Kossi Doe","IA & Big Data","AI310","Machine Learning","Pr. T. Lawson",5.01
+210903,"Senam Amouzou","IA & Big Data","GL200","Conception logicielle","Pr. G. Komlan",2.89
+391554,"Amah Doe","Génie mécanique","RS180","Réseaux avancés","Pr. T. Lawson",0.31
+397486,"Amah Agbeko","Génie civil","CI150","Calcul scientifique","Dr. Y. Amegah",14.93
+583677,"Afi Kouma","Systèmes Réseaux","EL201","Électrotechnique","Dr. S. Amouzou",11.44
+850101,"Afi Agbeko","Génie Logiciel","EL201","Électrotechnique","Dr. S. Amouzou",13.6
+759945,"Koffi Lawson","Informatique et Systèmes","CS220","Programmation avancée","Pr. T. Lawson",7.12
+764710,"Akoua Agbeko","SCOM","CI150","Calcul scientifique","Pr. D. Tchalla",7.7
+100658,"Elom Doe","IA & Big Data","GL200","Conception logicielle","Pr. D. Tchalla",13.86
+140629,"Eyram Amegah","Informatique et Systèmes","SC120","Théorie des Signaux","Pr. D. Tchalla",7.3
+360655,"Koffi Kouma","Génie mécanique","CS220","Programmation avancée","Pr. G. Komlan",3.9
+266605,"Yao Komlan","IA & Big Data","RS180","Réseaux avancés","Dr. M. Kpante",3.97
+228941,"Elom Agbeko","IA & Big Data","SC120","Théorie des Signaux","Pr. L. Mensah",5.25
+953183,"Afi Agbeko","Génie électrique","EL201","Électrotechnique","Pr. G. Komlan",7.53
+975866,"Senam Doe","Génie électrique","SC120","Théorie des Signaux","Pr. D. Tchalla",4.92
+775336,"Yao Agbeko","SCOM","RS180","Réseaux avancés","Dr. S. Amouzou",19.57
+540619,"Senam Kouma","Génie électrique","EL201","Électrotechnique","Dr. S. Amouzou",15.47
+778880,"Elom Doe","Génie civil","ME101","Mécanique générale","Pr. D. Tchalla",14.94
+125762,"Afi Tchalla","Informatique et Systèmes","EL201","Électrotechnique","Dr. M. Kpante",3.76
+710091,"Akoua Lawson","Génie mécanique","CS220","Programmation avancée","Pr. D. Tchalla",1.91
+713034,"Komi Kouma","Génie Logiciel","CI150","Calcul scientifique","Pr. T. Lawson",4.47
+385209,"Afi Tchalla","SCOM","GL200","Conception logicielle","Pr. T. Lawson",15.79
+433132,"Kossi Doe","Informatique et Systèmes","AI310","Machine Learning","Dr. S. Amouzou",13.74
+119126,"Kossi Tchalla","Génie Logiciel","ME101","Mécanique générale","Pr. G. Komlan",19.92
+375645,"Amah Komlan","IA & Big Data","AI310","Machine Learning","Pr. G. Komlan",10.72
+531895,"Komi Lawson","Génie électrique","CS220","Programmation avancée","Dr. Y. Amegah",3.18
+437102,"Abla Agbeko","Génie électrique","ME101","Mécanique générale","Pr. G. Komlan",6.86
+518364,"Mawuli Agbeko","IA & Big Data","CI150","Calcul scientifique","Dr. S. Amouzou",9.54
+213055,"Afi Amouzou","Génie électrique","EL201","Électrotechnique","Dr. M. Kpante",6.87
+746168,"Afi Lawson","Génie Logiciel","SC120","Théorie des Signaux","Pr. L. Mensah",17.12
+991291,"Kossi Lawson","Génie électrique","CI150","Calcul scientifique","Pr. T. Lawson",19.24
+553145,"Koffi Agbeko","SCOM","RS180","Réseaux avancés","Dr. Y. Amegah",9.57
+916057,"Elom Tchalla","Génie mécanique","SC120","Théorie des Signaux","Pr. L. Mensah",11.94
+316416,"Afi Amouzou","SCOM","GL200","Conception logicielle","Dr. S. Amouzou",3.67
+241407,"Kossi Amegah","Systèmes Réseaux","ME101","Mécanique générale","Dr. S. Amouzou",8.15
+353466,"Komi Komlan","Génie civil","AI310","Machine Learning","Pr. G. Komlan",11.69
+993261,"Kossi Tchalla","IA & Big Data","ME101","Mécanique générale","Pr. T. Lawson",17.38
+895937,"Senam Komlan","Génie Logiciel","CI150","Calcul scientifique","Dr. S. Amouzou",1.78
+657524,"Kossi Mensah","Informatique et Systèmes","ME101","Mécanique générale","Dr. M. Kpante",6.09
+183892,"Amah Amegah","Génie mécanique","SC120","Théorie des Signaux","Dr. S. Amouzou",5.68
+472229,"Akoua Lawson","Génie Logiciel","RS180","Réseaux avancés","Dr. S. Amouzou",1.13
+230870,"Amah Amegah","SCOM","CI150","Calcul scientifique","Dr. M. Kpante",1.81
+400587,"Yao Tchalla","Génie électrique","GL200","Conception logicielle","Pr. L. Mensah",11.69
+321746,"Komi Kouma","Génie électrique","CS220","Programmation avancée","Pr. G. Komlan",19.28
+458951,"Amah Kouma","Génie Logiciel","EL201","Électrotechnique","Pr. T. Lawson",4.6
+719507,"Akoua Agbeko","Génie mécanique","CS220","Programmation avancée","Dr. Y. Amegah",17.44
+553425,"Afi Amegah","SCOM","RS180","Réseaux avancés","Pr. L. Mensah",11.38
+961187,"Eyram Amouzou","Informatique et Systèmes","RS180","Réseaux avancés","Dr. M. Kpante",12.91
+736924,"Mawuli Mensah","Génie électrique","EL201","Électrotechnique","Pr. T. Lawson",0.57
+125667,"Mawuli Agbeko","Génie Logiciel","CS220","Programmation avancée","Pr. D. Tchalla",8.85
+412907,"Abla Mensah","Génie mécanique","RS180","Réseaux avancés","Pr. T. Lawson",16.44
+253795,"Komi Mensah","Génie civil","CI150","Calcul scientifique","Dr. S. Amouzou",2.94
+984795,"Komi Kouma","Génie Logiciel","CI150","Calcul scientifique","Pr. L. Mensah",5.49
+872106,"Eyram Mensah","Génie électrique","ME101","Mécanique générale","Dr. S. Amouzou",2.52
+883465,"Komi Komlan","Génie Logiciel","SC120","Théorie des Signaux","Pr. D. Tchalla",13.52
+638278,"Senam Tchalla","Génie mécanique","GL200","Conception logicielle","Dr. Y. Amegah",17.29
+351315,"Mawuli Kpante","SCOM","RS180","Réseaux avancés","Pr. G. Komlan",12.02
+786603,"Eyram Amouzou","Systèmes Réseaux","CS220","Programmation avancée","Pr. D. Tchalla",14.94
+402887,"Amah Tchalla","Génie civil","EL201","Électrotechnique","Dr. Y. Amegah",16.71
+773133,"Elom Kouma","Informatique et Systèmes","EL201","Électrotechnique","Dr. M. Kpante",2.24
+524112,"Akoua Doe","Génie mécanique","RS180","Réseaux avancés","Pr. T. Lawson",14.61
+103649,"Kossi Amegah","SCOM","CI150","Calcul scientifique","Dr. M. Kpante",14.26
+381240,"Afi Kouma","Génie mécanique","CI150","Calcul scientifique","Dr. K. Agbeko",7.33
+612970,"Akoua Amouzou","Systèmes Réseaux","SC120","Théorie des Signaux","Pr. L. Mensah",14.02
+414695,"Senam Agbeko","SCOM","ME101","Mécanique générale","Dr. K. Agbeko",9.83
+360384,"Amah Lawson","Informatique et Systèmes","CS220","Programmation avancée","Dr. K. Agbeko",9.4
+838532,"Elom Amegah","IA & Big Data","CS220","Programmation avancée","Pr. T. Lawson",18.57
+258254,"Yao Mensah","Informatique et Systèmes","RS180","Réseaux avancés","Pr. T. Lawson",14.06
+857066,"Elom Amegah","Systèmes Réseaux","CI150","Calcul scientifique","Pr. L. Mensah",18.33
+833224,"Mawuli Komlan","Informatique et Systèmes","CI150","Calcul scientifique","Pr. L. Mensah",18.45
+267002,"Yao Agbeko","Systèmes Réseaux","AI310","Machine Learning","Dr. K. Agbeko",11.68
+577364,"Akoua Tchalla","Génie électrique","CS220","Programmation avancée","Pr. G. Komlan",2.99
+763207,"Eyram Komlan","Informatique et Systèmes","CI150","Calcul scientifique","Dr. S. Amouzou",2.02
+810966,"Koffi Lawson","Génie électrique","CI150","Calcul scientifique","Pr. T. Lawson",9.39
+304036,"Kossi Agbeko","Systèmes Réseaux","EL201","Électrotechnique","Dr. K. Agbeko",0.4
+489186,"Amah Amouzou","Informatique et Systèmes","EL201","Électrotechnique","Dr. K. Agbeko",7.13
+734440,"Eyram Komlan","Systèmes Réseaux","ME101","Mécanique générale","Pr. D. Tchalla",9.85
+565919,"Amah Amouzou","Génie Logiciel","RS180","Réseaux avancés","Pr. T. Lawson",6.88
+924731,"Abla Agbeko","Génie électrique","EL201","Électrotechnique","Pr. T. Lawson",14.41
+362205,"Elom Tchalla","Génie électrique","ME101","Mécanique générale","Dr. Y. Amegah",6.12
+556849,"Koffi Mensah","Génie Logiciel","EL201","Électrotechnique","Pr. L. Mensah",7.87
+168458,"Abla Kpante","Systèmes Réseaux","EL201","Électrotechnique","Dr. K. Agbeko",17.77
+244853,"Senam Kouma","Génie mécanique","SC120","Théorie des Signaux","Pr. G. Komlan",11.49
+975628,"Amah Kpante","Génie mécanique","AI310","Machine Learning","Dr. Y. Amegah",4.82
+233855,"Kossi Kouma","Génie électrique","AI310","Machine Learning","Dr. K. Agbeko",4.78
+286259,"Abla Kouma","Informatique et Systèmes","CI150","Calcul scientifique","Dr. K. Agbeko",1.6
+918947,"Akoua Kpante","Génie électrique","EL201","Électrotechnique","Pr. G. Komlan",6.21
+844682,"Kossi Tchalla","Génie civil","EL201","Électrotechnique","Dr. K. Agbeko",17.81
+749914,"Eyram Mensah","SCOM","CI150","Calcul scientifique","Dr. Y. Amegah",17.0
+995967,"Eyram Komlan","Génie électrique","AI310","Machine Learning","Dr. M. Kpante",3.65
+815756,"Eyram Kpante","Génie civil","ME101","Mécanique générale","Dr. K. Agbeko",2.87
+797060,"Afi Agbeko","Informatique et Systèmes","AI310","Machine Learning","Pr. G. Komlan",13.88
+547715,"Mawuli Amegah","IA & Big Data","AI310","Machine Learning","Dr. K. Agbeko",1.52
+573382,"Komi Amouzou","Génie électrique","CI150","Calcul scientifique","Pr. L. Mensah",12.74
+679532,"Yao Tchalla","Génie mécanique","GL200","Conception logicielle","Pr. G. Komlan",2.18
+212757,"Mawuli Amegah","Génie électrique","AI310","Machine Learning","Dr. Y. Amegah",12.02
+114029,"Koffi Doe","Informatique et Systèmes","GL200","Conception logicielle","Dr. S. Amouzou",3.04
+797792,"Amah Tchalla","Génie civil","CS220","Programmation avancée","Dr. M. Kpante",2.78
+286131,"Amah Kouma","Systèmes Réseaux","GL200","Conception logicielle","Pr. G. Komlan",14.01
+349030,"Afi Amegah","Génie Logiciel","CS220","Programmation avancée","Pr. G. Komlan",3.06
+363866,"Abla Amegah","Systèmes Réseaux","GL200","Conception logicielle","Pr. L. Mensah",2.62
+689253,"Eyram Amegah","Génie Logiciel","ME101","Mécanique générale","Dr. M. Kpante",11.17
+353497,"Amah Kpante","SCOM","GL200","Conception logicielle","Dr. Y. Amegah",8.53
+253844,"Afi Kpante","Systèmes Réseaux","SC120","Théorie des Signaux","Dr. K. Agbeko",7.76
+269707,"Elom Amegah","SCOM","CI150","Calcul scientifique","Pr. T. Lawson",5.25
+555520,"Senam Doe","Génie civil","EL201","Électrotechnique","Pr. D. Tchalla",6.8
+696527,"Koffi Agbeko","SCOM","CI150","Calcul scientifique","Pr. L. Mensah",12.91
+827129,"Koffi Amegah","Génie électrique","EL201","Électrotechnique","Dr. M. Kpante",17.2
+827057,"Amah Lawson","Génie civil","ME101","Mécanique générale","Pr. D. Tchalla",3.44
+868000,"Kossi Mensah","Génie mécanique","AI310","Machine Learning","Pr. L. Mensah",4.86
+225741,"Abla Mensah","Systèmes Réseaux","ME101","Mécanique générale","Dr. K. Agbeko",5.24
+449859,"Mawuli Kpante","IA & Big Data","SC120","Théorie des Signaux","Pr. L. Mensah",0.06
+247389,"Koffi Doe","Génie mécanique","CI150","Calcul scientifique","Dr. K. Agbeko",7.34
+480339,"Elom Kouma","Génie mécanique","EL201","Électrotechnique","Pr. D. Tchalla",11.5
+283317,"Amah Kouma","SCOM","EL201","Électrotechnique","Pr. L. Mensah",7.23
+805712,"Komi Kouma","Génie civil","RS180","Réseaux avancés","Pr. T. Lawson",8.03
+100428,"Kossi Kpante","Informatique et Systèmes","AI310","Machine Learning","Dr. Y. Amegah",5.14
+200605,"Amah Kpante","IA & Big Data","CI150","Calcul scientifique","Dr. S. Amouzou",4.33
+889904,"Kossi Tchalla","Informatique et Systèmes","GL200","Conception logicielle","Pr. G. Komlan",18.98
+689057,"Eyram Komlan","Génie Logiciel","EL201","Électrotechnique","Dr. M. Kpante",17.55
+716731,"Akoua Agbeko","Génie mécanique","GL200","Conception logicielle","Pr. D. Tchalla",19.61
+556725,"Mawuli Kpante","Génie civil","RS180","Réseaux avancés","Dr. S. Amouzou",2.35
+454864,"Yao Doe","Génie électrique","RS180","Réseaux avancés","Pr. L. Mensah",1.25
+394956,"Komi Mensah","Génie civil","AI310","Machine Learning","Pr. D. Tchalla",16.5
+952446,"Yao Komlan","Génie électrique","SC120","Théorie des Signaux","Pr. T. Lawson",15.78
+712169,"Komi Komlan","SCOM","ME101","Mécanique générale","Dr. S. Amouzou",7.64
+752662,"Akoua Amegah","Génie mécanique","CS220","Programmation avancée","Dr. S. Amouzou",3.55
+621038,"Elom Kpante","Génie civil","ME101","Mécanique générale","Dr. M. Kpante",12.66
+665539,"Senam Lawson","Génie Logiciel","ME101","Mécanique générale","Pr. D. Tchalla",9.12
+661171,"Afi Mensah","Génie civil","EL201","Électrotechnique","Dr. M. Kpante",1.73
+968722,"Elom Amegah","IA & Big Data","EL201","Électrotechnique","Dr. Y. Amegah",0.91
+551659,"Abla Doe","Génie civil","GL200","Conception logicielle","Dr. K. Agbeko",11.62
+912033,"Senam Mensah","Génie civil","ME101","Mécanique générale","Pr. L. Mensah",7.63
+758652,"Elom Agbeko","Génie Logiciel","SC120","Théorie des Signaux","Pr. T. Lawson",7.74
+533364,"Kossi Tchalla","Systèmes Réseaux","GL200","Conception logicielle","Pr. G. Komlan",8.99
+645391,"Kossi Komlan","Génie civil","ME101","Mécanique générale","Pr. D. Tchalla",5.03
+800538,"Amah Tchalla","Systèmes Réseaux","GL200","Conception logicielle","Dr. K. Agbeko",7.88
+715955,"Mawuli Tchalla","IA & Big Data","EL201","Électrotechnique","Pr. L. Mensah",1.88
+384017,"Abla Amegah","Génie Logiciel","RS180","Réseaux avancés","Pr. D. Tchalla",13.11
+385011,"Afi Lawson","Génie électrique","CS220","Programmation avancée","Pr. T. Lawson",16.8
+671396,"Senam Agbeko","Génie civil","RS180","Réseaux avancés","Pr. T. Lawson",15.07
+570883,"Mawuli Amegah","Systèmes Réseaux","GL200","Conception logicielle","Dr. K. Agbeko",3.35
+606504,"Akoua Mensah","Génie civil","ME101","Mécanique générale","Pr. G. Komlan",6.59
+838457,"Senam Kpante","Systèmes Réseaux","AI310","Machine Learning","Dr. S. Amouzou",11.86
+587731,"Amah Amouzou","IA & Big Data","RS180","Réseaux avancés","Dr. Y. Amegah",0.98
+640777,"Eyram Kouma","IA & Big Data","RS180","Réseaux avancés","Pr. L. Mensah",16.54
+693272,"Koffi Agbeko","Génie Logiciel","SC120","Théorie des Signaux","Dr. Y. Amegah",2.5
+656469,"Amah Doe","IA & Big Data","SC120","Théorie des Signaux","Pr. G. Komlan",10.53
+931669,"Senam Amouzou","Génie civil","CI150","Calcul scientifique","Pr. L. Mensah",0.45
+757549,"Koffi Doe","Génie mécanique","CI150","Calcul scientifique","Dr. S. Amouzou",14.01
+721568,"Komi Kpante","SCOM","AI310","Machine Learning","Pr. T. Lawson",17.88
+349556,"Koffi Amegah","Génie civil","GL200","Conception logicielle","Pr. T. Lawson",16.67
+620064,"Afi Doe","IA & Big Data","CI150","Calcul scientifique","Pr. D. Tchalla",3.84
+773776,"Mawuli Mensah","IA & Big Data","CI150","Calcul scientifique","Pr. D. Tchalla",4.38
+546885,"Koffi Tchalla","Génie Logiciel","CI150","Calcul scientifique","Pr. D. Tchalla",13.91
+270515,"Kossi Mensah","Génie électrique","GL200","Conception logicielle","Pr. G. Komlan",0.78
+880038,"Akoua Amegah","Génie Logiciel","GL200","Conception logicielle","Dr. K. Agbeko",16.21
+377651,"Mawuli Doe","Génie mécanique","ME101","Mécanique générale","Dr. S. Amouzou",7.08
+437978,"Amah Kouma","Génie mécanique","RS180","Réseaux avancés","Pr. T. Lawson",15.67
+286203,"Kossi Agbeko","Systèmes Réseaux","CS220","Programmation avancée","Pr. G. Komlan",5.06
+438598,"Mawuli Tchalla","Systèmes Réseaux","AI310","Machine Learning","Dr. Y. Amegah",16.98
+443415,"Komi Kpante","Systèmes Réseaux","GL200","Conception logicielle","Pr. L. Mensah",16.38
+206297,"Eyram Tchalla","Génie Logiciel","ME101","Mécanique générale","Pr. D. Tchalla",1.51
+356104,"Koffi Kouma","IA & Big Data","CI150","Calcul scientifique","Dr. S. Amouzou",9.89
+958345,"Afi Lawson","Génie électrique","GL200","Conception logicielle","Pr. T. Lawson",7.45
+653520,"Elom Kouma","Génie civil","GL200","Conception logicielle","Dr. S. Amouzou",1.74
+614953,"Akoua Agbeko","IA & Big Data","ME101","Mécanique générale","Pr. T. Lawson",7.5
+923184,"Abla Kouma","IA & Big Data","SC120","Théorie des Signaux","Pr. D. Tchalla",11.97
+563145,"Afi Tchalla","Génie électrique","EL201","Électrotechnique","Pr. D. Tchalla",17.25
+387685,"Yao Lawson","Génie électrique","SC120","Théorie des Signaux","Pr. T. Lawson",11.7
+322681,"Mawuli Mensah","SCOM","EL201","Électrotechnique","Pr. G. Komlan",5.89
+799954,"Amah Kouma","Génie Logiciel","SC120","Théorie des Signaux","Dr. S. Amouzou",0.42
+495013,"Koffi Amegah","SCOM","EL201","Électrotechnique","Pr. D. Tchalla",6.18
+460499,"Elom Kouma","Génie mécanique","AI310","Machine Learning","Pr. L. Mensah",7.31
+628269,"Abla Amegah","Systèmes Réseaux","RS180","Réseaux avancés","Pr. T. Lawson",10.99
+815969,"Mawuli Amouzou","Systèmes Réseaux","EL201","Électrotechnique","Dr. Y. Amegah",1.64
+326906,"Kossi Tchalla","Génie civil","SC120","Théorie des Signaux","Pr. D. Tchalla",4.15
+993225,"Amah Kouma","Génie mécanique","EL201","Électrotechnique","Dr. S. Amouzou",15.99
+896592,"Senam Amouzou","Systèmes Réseaux","EL201","Électrotechnique","Dr. Y. Amegah",3.51
+166438,"Mawuli Amouzou","Systèmes Réseaux","EL201","Électrotechnique","Dr. K. Agbeko",6.68
+552561,"Eyram Kpante","Systèmes Réseaux","ME101","Mécanique générale","Dr. K. Agbeko",13.42
+323190,"Afi Kouma","Génie civil","AI310","Machine Learning","Dr. M. Kpante",18.0
+418285,"Amah Amouzou","IA & Big Data","ME101","Mécanique générale","Dr. M. Kpante",7.84
+868795,"Akoua Lawson","Génie électrique","CI150","Calcul scientifique","Pr. L. Mensah",0.51
+378215,"Afi Lawson","Systèmes Réseaux","SC120","Théorie des Signaux","Pr. D. Tchalla",4.13
+968632,"Akoua Amegah","SCOM","CI150","Calcul scientifique","Pr. L. Mensah",19.11
+379256,"Koffi Amouzou","Génie civil","CS220","Programmation avancée","Dr. S. Amouzou",12.18
+926286,"Komi Amegah","Informatique et Systèmes","AI310","Machine Learning","Dr. Y. Amegah",6.35
+983619,"Afi Mensah","Génie Logiciel","RS180","Réseaux avancés","Pr. G. Komlan",2.02
+359801,"Koffi Mensah","Génie Logiciel","ME101","Mécanique générale","Dr. Y. Amegah",16.5
+472045,"Mawuli Amegah","Informatique et Systèmes","ME101","Mécanique générale","Dr. Y. Amegah",18.46
+310975,"Kossi Tchalla","IA & Big Data","CS220","Programmation avancée","Pr. G. Komlan",18.5
+232091,"Kossi Komlan","Systèmes Réseaux","ME101","Mécanique générale","Pr. T. Lawson",1.44
+500070,"Amah Kpante","Systèmes Réseaux","GL200","Conception logicielle","Dr. M. Kpante",3.18
+194447,"Akoua Amouzou","Génie civil","RS180","Réseaux avancés","Pr. G. Komlan",12.3
+505500,"Komi Komlan","Génie mécanique","CS220","Programmation avancée","Pr. L. Mensah",1.0
+167116,"Mawuli Mensah","Systèmes Réseaux","AI310","Machine Learning","Dr. K. Agbeko",7.49
+102749,"Mawuli Kouma","Génie électrique","GL200","Conception logicielle","Pr. L. Mensah",0.67
+538998,"Afi Amegah","Informatique et Systèmes","AI310","Machine Learning","Dr. K. Agbeko",10.69
+113329,"Senam Lawson","Systèmes Réseaux","SC120","Théorie des Signaux","Dr. K. Agbeko",16.35
+109578,"Komi Komlan","IA & Big Data","GL200","Conception logicielle","Pr. L. Mensah",16.66
+982534,"Senam Komlan","IA & Big Data","CI150","Calcul scientifique","Pr. L. Mensah",9.43
+243091,"Koffi Amouzou","Génie électrique","CS220","Programmation avancée","Dr. M. Kpante",13.81
+306829,"Akoua Kouma","SCOM","EL201","Électrotechnique","Dr. S. Amouzou",2.45
+939012,"Afi Doe","Génie Logiciel","AI310","Machine Learning","Pr. G. Komlan",3.54
+372453,"Afi Amouzou","SCOM","GL200","Conception logicielle","Dr. Y. Amegah",5.09
+406776,"Amah Lawson","IA & Big Data","CS220","Programmation avancée","Dr. M. Kpante",2.82
+483056,"Komi Amouzou","Systèmes Réseaux","SC120","Théorie des Signaux","Pr. L. Mensah",7.8
+780720,"Amah Tchalla","SCOM","EL201","Électrotechnique","Pr. T. Lawson",11.22
+978847,"Yao Komlan","Systèmes Réseaux","RS180","Réseaux avancés","Pr. L. Mensah",11.31
+361489,"Kossi Kouma","SCOM","RS180","Réseaux avancés","Dr. S. Amouzou",3.84
+407710,"Koffi Kouma","Informatique et Systèmes","SC120","Théorie des Signaux","Dr. S. Amouzou",18.14
+832577,"Abla Kouma","Génie Logiciel","CI150","Calcul scientifique","Pr. D. Tchalla",9.01
+372824,"Elom Kpante","Génie mécanique","CS220","Programmation avancée","Pr. L. Mensah",19.31
+840241,"Yao Mensah","Génie Logiciel","SC120","Théorie des Signaux","Pr. G. Komlan",9.62
+406943,"Amah Kpante","Génie Logiciel","AI310","Machine Learning","Dr. S. Amouzou",6.94
+845382,"Senam Lawson","IA & Big Data","ME101","Mécanique générale","Pr. D. Tchalla",13.12
+787877,"Elom Amouzou","Génie mécanique","CI150","Calcul scientifique","Pr. L. Mensah",0.91
+510995,"Kossi Tchalla","IA & Big Data","GL200","Conception logicielle","Dr. S. Amouzou",6.06
+706268,"Akoua Kouma","Systèmes Réseaux","RS180","Réseaux avancés","Dr. K. Agbeko",0.47
+601241,"Kossi Doe","Informatique et Systèmes","SC120","Théorie des Signaux","Dr. Y. Amegah",8.83
+422786,"Kossi Amegah","Génie Logiciel","CI150","Calcul scientifique","Dr. K. Agbeko",5.46
+623929,"Akoua Doe","Systèmes Réseaux","RS180","Réseaux avancés","Dr. K. Agbeko",4.94
+289389,"Mawuli Amouzou","Systèmes Réseaux","CS220","Programmation avancée","Dr. Y. Amegah",12.17
+639004,"Yao Kpante","Informatique et Systèmes","SC120","Théorie des Signaux","Pr. G. Komlan",6.72
+178250,"Koffi Kouma","Génie électrique","AI310","Machine Learning","Pr. D. Tchalla",7.64
+585213,"Komi Lawson","Génie mécanique","AI310","Machine Learning","Pr. G. Komlan",2.08
+358589,"Kossi Tchalla","Informatique et Systèmes","CS220","Programmation avancée","Dr. S. Amouzou",14.19
+888112,"Akoua Tchalla","Génie Logiciel","CS220","Programmation avancée","Pr. D. Tchalla",10.22
+564292,"Abla Amouzou","IA & Big Data","SC120","Théorie des Signaux","Dr. K. Agbeko",17.11
+383473,"Afi Tchalla","Informatique et Systèmes","GL200","Conception logicielle","Pr. D. Tchalla",5.96
+233209,"Yao Kouma","IA & Big Data","EL201","Électrotechnique","Dr. M. Kpante",19.93
+507219,"Akoua Tchalla","Génie électrique","RS180","Réseaux avancés","Dr. K. Agbeko",3.13
+634808,"Senam Amegah","IA & Big Data","GL200","Conception logicielle","Dr. S. Amouzou",4.33
+631766,"Akoua Amouzou","Génie électrique","CS220","Programmation avancée","Dr. M. Kpante",12.49
+603248,"Koffi Amegah","Génie Logiciel","ME101","Mécanique générale","Pr. D. Tchalla",5.96
+520746,"Mawuli Mensah","IA & Big Data","CI150","Calcul scientifique","Dr. M. Kpante",17.25
+947414,"Afi Agbeko","Informatique et Systèmes","RS180","Réseaux avancés","Dr. S. Amouzou",15.51
+450377,"Abla Lawson","Informatique et Systèmes","CS220","Programmation avancée","Pr. L. Mensah",12.82
+251091,"Eyram Amegah","Génie électrique","CS220","Programmation avancée","Pr. L. Mensah",0.2
+428724,"Eyram Doe","Génie civil","EL201","Électrotechnique","Pr. G. Komlan",17.04
+574982,"Yao Amouzou","SCOM","CS220","Programmation avancée","Pr. D. Tchalla",13.61
+563743,"Eyram Tchalla","Informatique et Systèmes","SC120","Théorie des Signaux","Dr. M. Kpante",11.98
+474546,"Yao Komlan","Génie mécanique","RS180","Réseaux avancés","Dr. K. Agbeko",19.03
+871782,"Elom Amegah","Systèmes Réseaux","CS220","Programmation avancée","Pr. G. Komlan",18.33
+548476,"Akoua Amegah","IA & Big Data","CI150","Calcul scientifique","Pr. L. Mensah",14.02
+700188,"Eyram Amouzou","Génie civil","RS180","Réseaux avancés","Dr. M. Kpante",9.29
+415598,"Mawuli Doe","Génie mécanique","AI310","Machine Learning","Pr. G. Komlan",18.74
+814219,"Yao Tchalla","Génie électrique","AI310","Machine Learning","Pr. D. Tchalla",0.47
+346384,"Senam Agbeko","Génie civil","CI150","Calcul scientifique","Dr. Y. Amegah",10.78
+763744,"Kossi Lawson","Génie électrique","AI310","Machine Learning","Dr. Y. Amegah",13.62
+959921,"Koffi Amegah","Génie Logiciel","GL200","Conception logicielle","Pr. G. Komlan",1.22
+237659,"Senam Lawson","IA & Big Data","GL200","Conception logicielle","Dr. S. Amouzou",9.95
+649179,"Komi Kpante","IA & Big Data","EL201","Électrotechnique","Pr. T. Lawson",0.9
+911483,"Mawuli Mensah","Génie Logiciel","ME101","Mécanique générale","Pr. D. Tchalla",12.38
+459292,"Elom Lawson","Génie électrique","AI310","Machine Learning","Dr. Y. Amegah",13.81
+982837,"Eyram Kpante","Systèmes Réseaux","ME101","Mécanique générale","Dr. M. Kpante",7.62
+149711,"Koffi Lawson","IA & Big Data","GL200","Conception logicielle","Pr. D. Tchalla",6.92
+213432,"Yao Kpante","Informatique et Systèmes","GL200","Conception logicielle","Pr. D. Tchalla",12.14
+726328,"Yao Doe","Informatique et Systèmes","AI310","Machine Learning","Dr. S. Amouzou",16.47
+818893,"Kossi Agbeko","Informatique et Systèmes","ME101","Mécanique générale","Dr. Y. Amegah",9.85
+601617,"Senam Kpante","SCOM","CS220","Programmation avancée","Dr. M. Kpante",1.62
+875367,"Kossi Doe","Informatique et Systèmes","ME101","Mécanique générale","Pr. L. Mensah",19.68
+436323,"Kossi Tchalla","Génie mécanique","ME101","Mécanique générale","Pr. D. Tchalla",3.33
+239036,"Yao Lawson","Génie civil","SC120","Théorie des Signaux","Dr. K. Agbeko",14.13
+120114,"Koffi Tchalla","IA & Big Data","RS180","Réseaux avancés","Dr. M. Kpante",8.73
+286121,"Mawuli Kpante","Génie mécanique","EL201","Électrotechnique","Pr. D. Tchalla",11.43
+625577,"Kossi Amegah","Génie Logiciel","EL201","Électrotechnique","Dr. K. Agbeko",7.58
+808701,"Akoua Lawson","Informatique et Systèmes","ME101","Mécanique générale","Pr. L. Mensah",6.52
+825872,"Komi Komlan","Génie civil","RS180","Réseaux avancés","Pr. D. Tchalla",15.65
+876259,"Amah Agbeko","SCOM","CI150","Calcul scientifique","Pr. T. Lawson",4.34
+581811,"Yao Agbeko","Génie mécanique","EL201","Électrotechnique","Dr. M. Kpante",3.36
+854717,"Akoua Komlan","Informatique et Systèmes","EL201","Électrotechnique","Dr. M. Kpante",11.69
+106624,"Abla Komlan","Génie Logiciel","EL201","Électrotechnique","Pr. L. Mensah",16.55
+864899,"Mawuli Komlan","Génie mécanique","EL201","Électrotechnique","Pr. T. Lawson",19.93
+212771,"Amah Amouzou","Systèmes Réseaux","ME101","Mécanique générale","Dr. M. Kpante",10.11
+331782,"Elom Agbeko","Génie civil","ME101","Mécanique générale","Dr. K. Agbeko",1.89
+540159,"Abla Doe","Informatique et Systèmes","RS180","Réseaux avancés","Pr. G. Komlan",4.19
+139509,"Yao Mensah","Génie Logiciel","ME101","Mécanique générale","Dr. K. Agbeko",12.06
+590504,"Yao Agbeko","IA & Big Data","GL200","Conception logicielle","Dr. Y. Amegah",10.87
+541956,"Abla Amouzou","Génie électrique","RS180","Réseaux avancés","Dr. Y. Amegah",1.04
+325011,"Eyram Tchalla","Informatique et Systèmes","EL201","Électrotechnique","Pr. L. Mensah",17.38
+344735,"Koffi Mensah","Génie civil","EL201","Électrotechnique","Dr. Y. Amegah",17.99
+137182,"Komi Doe","Systèmes Réseaux","SC120","Théorie des Signaux","Dr. S. Amouzou",7.35
+420231,"Akoua Lawson","Génie mécanique","EL201","Électrotechnique","Pr. L. Mensah",0.2
+885172,"Amah Agbeko","Génie Logiciel","GL200","Conception logicielle","Pr. D. Tchalla",16.27
+610178,"Amah Doe","Informatique et Systèmes","SC120","Théorie des Signaux","Dr. M. Kpante",18.44
+490517,"Senam Amouzou","Génie civil","ME101","Mécanique générale","Dr. Y. Amegah",13.76
+794336,"Senam Komlan","IA & Big Data","EL201","Électrotechnique","Dr. Y. Amegah",12.33
+293532,"Komi Kouma","Systèmes Réseaux","RS180","Réseaux avancés","Dr. Y. Amegah",10.68
+697972,"Mawuli Mensah","Génie civil","EL201","Électrotechnique","Pr. D. Tchalla",9.05
+340139,"Abla Kouma","Systèmes Réseaux","AI310","Machine Learning","Pr. G. Komlan",17.2
+135587,"Komi Doe","Génie électrique","GL200","Conception logicielle","Pr. T. Lawson",18.92
+738804,"Koffi Tchalla","Génie civil","ME101","Mécanique générale","Pr. G. Komlan",10.72
+903463,"Amah Komlan","IA & Big Data","GL200","Conception logicielle","Pr. T. Lawson",17.35
+434341,"Abla Doe","Systèmes Réseaux","RS180","Réseaux avancés","Dr. K. Agbeko",18.25
+886467,"Komi Agbeko","SCOM","CI150","Calcul scientifique","Dr. Y. Amegah",11.83
+800190,"Eyram Tchalla","Informatique et Systèmes","GL200","Conception logicielle","Dr. S. Amouzou",13.45
+956561,"Abla Tchalla","IA & Big Data","SC120","Théorie des Signaux","Dr. M. Kpante",3.62
+538366,"Kossi Kpante","SCOM","SC120","Théorie des Signaux","Dr. Y. Amegah",18.26
+882401,"Kossi Tchalla","Génie électrique","ME101","Mécanique générale","Pr. G. Komlan",13.57
+725645,"Komi Komlan","Systèmes Réseaux","CI150","Calcul scientifique","Dr. K. Agbeko",6.88
+668090,"Yao Tchalla","Génie mécanique","RS180","Réseaux avancés","Pr. D. Tchalla",12.15
+834241,"Amah Doe","Génie Logiciel","SC120","Théorie des Signaux","Pr. T. Lawson",3.42
+924143,"Komi Amouzou","IA & Big Data","GL200","Conception logicielle","Dr. K. Agbeko",6.05
+297950,"Amah Amegah","Génie électrique","RS180","Réseaux avancés","Dr. S. Amouzou",1.19
+323788,"Akoua Mensah","Génie mécanique","RS180","Réseaux avancés","Dr. Y. Amegah",6.97
+487511,"Yao Doe","Génie Logiciel","CI150","Calcul scientifique","Pr. L. Mensah",6.09
+768089,"Kossi Kpante","IA & Big Data","AI310","Machine Learning","Dr. K. Agbeko",8.24
+469586,"Senam Kpante","Systèmes Réseaux","CI150","Calcul scientifique","Dr. K. Agbeko",15.75
+238860,"Kossi Amouzou","Informatique et Systèmes","EL201","Électrotechnique","Dr. S. Amouzou",15.56
+185587,"Komi Agbeko","Systèmes Réseaux","ME101","Mécanique générale","Dr. Y. Amegah",15.77
+817131,"Elom Komlan","Informatique et Systèmes","SC120","Théorie des Signaux","Dr. K. Agbeko",10.91
+626154,"Akoua Agbeko","SCOM","CS220","Programmation avancée","Pr. L. Mensah",12.32
+325201,"Koffi Lawson","Génie Logiciel","ME101","Mécanique générale","Dr. K. Agbeko",10.35
+128220,"Mawuli Komlan","Systèmes Réseaux","AI310","Machine Learning","Dr. Y. Amegah",19.16
+819982,"Amah Amouzou","Génie civil","RS180","Réseaux avancés","Pr. L. Mensah",17.72
+342797,"Kossi Lawson","Génie mécanique","AI310","Machine Learning","Dr. K. Agbeko",18.42
+582192,"Akoua Agbeko","Génie Logiciel","CI150","Calcul scientifique","Pr. T. Lawson",8.44
+513680,"Yao Doe","Génie électrique","AI310","Machine Learning","Dr. K. Agbeko",13.67
+496326,"Akoua Amegah","SCOM","SC120","Théorie des Signaux","Dr. S. Amouzou",9.2
+586329,"Yao Kpante","Génie Logiciel","RS180","Réseaux avancés","Pr. G. Komlan",8.01
+891174,"Afi Tchalla","Génie électrique","RS180","Réseaux avancés","Dr. S. Amouzou",19.03
+274787,"Komi Doe","Génie Logiciel","GL200","Conception logicielle","Dr. Y. Amegah",13.31
+719743,"Mawuli Agbeko","Génie mécanique","AI310","Machine Learning","Pr. L. Mensah",5.08
+153502,"Yao Kouma","Génie civil","GL200","Conception logicielle","Dr. S. Amouzou",9.91
+903712,"Abla Amegah","IA & Big Data","SC120","Théorie des Signaux","Pr. D. Tchalla",12.36
+705259,"Komi Kpante","Systèmes Réseaux","CS220","Programmation avancée","Dr. M. Kpante",11.44
+575159,"Eyram Amegah","Systèmes Réseaux","SC120","Théorie des Signaux","Pr. T. Lawson",15.31
+143949,"Akoua Mensah","Génie Logiciel","ME101","Mécanique générale","Dr. K. Agbeko",16.35
+218731,"Elom Amegah","Systèmes Réseaux","CS220","Programmation avancée","Pr. D. Tchalla",19.47
+936098,"Eyram Mensah","Génie civil","CI150","Calcul scientifique","Pr. L. Mensah",15.56
+247337,"Kossi Amouzou","SCOM","RS180","Réseaux avancés","Pr. L. Mensah",10.6
+232757,"Mawuli Amegah","Génie Logiciel","ME101","Mécanique générale","Pr. L. Mensah",9.04
+817599,"Elom Amegah","Génie Logiciel","CS220","Programmation avancée","Dr. M. Kpante",17.72
+215686,"Afi Kpante","Génie électrique","AI310","Machine Learning","Pr. G. Komlan",8.06
+878515,"Komi Tchalla","Systèmes Réseaux","GL200","Conception logicielle","Dr. K. Agbeko",18.01
+673754,"Mawuli Amouzou","Génie électrique","GL200","Conception logicielle","Pr. D. Tchalla",19.5
+749740,"Elom Komlan","Systèmes Réseaux","GL200","Conception logicielle","Pr. D. Tchalla",19.03
+658933,"Abla Agbeko","IA & Big Data","EL201","Électrotechnique","Dr. S. Amouzou",10.51
+814162,"Komi Mensah","Génie Logiciel","RS180","Réseaux avancés","Dr. S. Amouzou",15.57
+134023,"Afi Amouzou","Génie électrique","SC120","Théorie des Signaux","Dr. Y. Amegah",5.03
+587296,"Afi Lawson","SCOM","EL201","Électrotechnique","Pr. L. Mensah",5.12
+978962,"Senam Tchalla","Systèmes Réseaux","SC120","Théorie des Signaux","Dr. Y. Amegah",7.44
+440249,"Elom Amegah","Génie électrique","RS180","Réseaux avancés","Dr. Y. Amegah",11.68
+608282,"Senam Amegah","Génie mécanique","AI310","Machine Learning","Pr. T. Lawson",11.88
+670917,"Elom Kouma","SCOM","ME101","Mécanique générale","Pr. D. Tchalla",6.39
+146940,"Yao Tchalla","SCOM","SC120","Théorie des Signaux","Pr. L. Mensah",3.68
+343216,"Afi Amouzou","Systèmes Réseaux","EL201","Électrotechnique","Pr. G. Komlan",2.23
+300528,"Elom Lawson","SCOM","EL201","Électrotechnique","Pr. G. Komlan",11.17
+597294,"Yao Doe","IA & Big Data","GL200","Conception logicielle","Dr. Y. Amegah",0.69
+372575,"Afi Amegah","Génie mécanique","ME101","Mécanique générale","Dr. S. Amouzou",18.1
+271052,"Senam Doe","Génie électrique","RS180","Réseaux avancés","Dr. M. Kpante",5.8
+218507,"Kossi Kpante","Systèmes Réseaux","RS180","Réseaux avancés","Dr. K. Agbeko",3.27
+484478,"Akoua Kouma","Informatique et Systèmes","CS220","Programmation avancée","Dr. K. Agbeko",18.49
+311812,"Abla Amouzou","Génie civil","SC120","Théorie des Signaux","Dr. Y. Amegah",7.9
+327857,"Mawuli Kouma","Génie civil","CS220","Programmation avancée","Pr. L. Mensah",1.3
+856943,"Elom Tchalla","IA & Big Data","EL201","Électrotechnique","Pr. D. Tchalla",9.05
+832195,"Senam Amegah","Génie Logiciel","EL201","Électrotechnique","Dr. M. Kpante",9.3
+600076,"Komi Agbeko","SCOM","AI310","Machine Learning","Dr. M. Kpante",2.22
+451722,"Senam Agbeko","Informatique et Systèmes","RS180","Réseaux avancés","Pr. T. Lawson",5.32
+658741,"Amah Doe","IA & Big Data","ME101","Mécanique générale","Pr. L. Mensah",6.96
+342355,"Eyram Mensah","Génie électrique","EL201","Électrotechnique","Dr. Y. Amegah",8.78
+975638,"Elom Amegah","Génie mécanique","SC120","Théorie des Signaux","Dr. K. Agbeko",7.47
+282027,"Abla Amegah","Génie Logiciel","CI150","Calcul scientifique","Dr. K. Agbeko",0.98
+587158,"Mawuli Amegah","Génie mécanique","ME101","Mécanique générale","Dr. Y. Amegah",5.28
+128125,"Eyram Lawson","Génie mécanique","SC120","Théorie des Signaux","Pr. T. Lawson",10.66
+764453,"Amah Tchalla","Génie Logiciel","AI310","Machine Learning","Dr. Y. Amegah",19.99
+376951,"Senam Kpante","Génie Logiciel","EL201","Électrotechnique","Pr. G. Komlan",12.16
+191499,"Yao Amegah","SCOM","CI150","Calcul scientifique","Dr. S. Amouzou",0.72
+117264,"Afi Amegah","IA & Big Data","EL201","Électrotechnique","Dr. S. Amouzou",8.94
+890770,"Senam Doe","Génie civil","AI310","Machine Learning","Pr. T. Lawson",19.15
+418809,"Koffi Doe","IA & Big Data","EL201","Électrotechnique","Pr. D. Tchalla",6.2
+636877,"Koffi Amouzou","Systèmes Réseaux","SC120","Théorie des Signaux","Pr. L. Mensah",10.48
+732374,"Senam Kouma","IA & Big Data","GL200","Conception logicielle","Pr. L. Mensah",17.53
+927098,"Senam Kpante","Génie mécanique","EL201","Électrotechnique","Dr. M. Kpante",16.19
+447868,"Eyram Amouzou","SCOM","AI310","Machine Learning","Dr. Y. Amegah",13.93
+456395,"Komi Agbeko","Génie Logiciel","AI310","Machine Learning","Dr. M. Kpante",13.47
+223748,"Komi Komlan","Génie électrique","CI150","Calcul scientifique","Dr. M. Kpante",3.01
+544077,"Akoua Amouzou","Génie mécanique","SC120","Théorie des Signaux","Dr. Y. Amegah",9.38
+439858,"Amah Agbeko","Génie civil","RS180","Réseaux avancés","Pr. G. Komlan",11.17
+879520,"Amah Komlan","Génie mécanique","EL201","Électrotechnique","Dr. S. Amouzou",3.86
+253062,"Koffi Amegah","Génie mécanique","EL201","Électrotechnique","Dr. M. Kpante",8.87
+921797,"Eyram Mensah","Génie mécanique","CS220","Programmation avancée","Pr. G. Komlan",13.07
+211283,"Afi Amouzou","IA & Big Data","EL201","Électrotechnique","Dr. M. Kpante",7.03
+339581,"Elom Komlan","Génie Logiciel","GL200","Conception logicielle","Dr. K. Agbeko",15.35
+816286,"Eyram Komlan","Génie Logiciel","SC120","Théorie des Signaux","Dr. Y. Amegah",13.48
+744453,"Elom Doe","Génie Logiciel","RS180","Réseaux avancés","Dr. Y. Amegah",2.52
+827308,"Kossi Amouzou","Génie civil","AI310","Machine Learning","Dr. S. Amouzou",18.01
+932137,"Amah Kouma","SCOM","GL200","Conception logicielle","Dr. S. Amouzou",4.94
+439954,"Senam Amouzou","Systèmes Réseaux","EL201","Électrotechnique","Pr. T. Lawson",5.62
+822004,"Elom Doe","IA & Big Data","CS220","Programmation avancée","Pr. D. Tchalla",16.56
+843774,"Afi Kouma","Génie civil","EL201","Électrotechnique","Pr. G. Komlan",18.89
+835383,"Yao Kouma","Informatique et Systèmes","SC120","Théorie des Signaux","Pr. T. Lawson",18.15
+178940,"Yao Doe","Génie civil","CS220","Programmation avancée","Pr. L. Mensah",19.15
+407540,"Koffi Tchalla","Génie Logiciel","GL200","Conception logicielle","Pr. T. Lawson",7.6
+884305,"Kossi Kouma","Génie Logiciel","CI150","Calcul scientifique","Pr. L. Mensah",16.59
+805165,"Amah Tchalla","IA & Big Data","GL200","Conception logicielle","Dr. Y. Amegah",12.12
+941505,"Abla Kpante","Systèmes Réseaux","AI310","Machine Learning","Dr. M. Kpante",12.63
+935422,"Koffi Kpante","Génie mécanique","RS180","Réseaux avancés","Dr. M. Kpante",10.8
+930723,"Yao Amegah","Génie Logiciel","GL200","Conception logicielle","Pr. T. Lawson",10.03
+500272,"Elom Tchalla","SCOM","RS180","Réseaux avancés","Dr. K. Agbeko",11.24
+713084,"Abla Lawson","Génie mécanique","CI150","Calcul scientifique","Dr. S. Amouzou",11.62
+231279,"Elom Kpante","Génie mécanique","AI310","Machine Learning","Dr. M. Kpante",13.5
+298494,"Akoua Komlan","Génie électrique","EL201","Électrotechnique","Pr. L. Mensah",3.84
+250919,"Koffi Mensah","Génie Logiciel","EL201","Électrotechnique","Pr. D. Tchalla",15.5
+778496,"Komi Komlan","Génie mécanique","CS220","Programmation avancée","Pr. T. Lawson",7.9
+121401,"Eyram Doe","SCOM","ME101","Mécanique générale","Dr. K. Agbeko",16.18
+267228,"Eyram Doe","Systèmes Réseaux","AI310","Machine Learning","Dr. Y. Amegah",15.28
+206271,"Yao Amegah","IA & Big Data","AI310","Machine Learning","Pr. G. Komlan",8.49
+753126,"Kossi Kpante","Génie mécanique","GL200","Conception logicielle","Pr. G. Komlan",16.63
+883452,"Senam Doe","Génie civil","ME101","Mécanique générale","Pr. D. Tchalla",0.48
+167167,"Kossi Kouma","Génie mécanique","GL200","Conception logicielle","Dr. M. Kpante",11.0
+994391,"Akoua Agbeko","Génie mécanique","CI150","Calcul scientifique","Dr. K. Agbeko",11.93
+652466,"Senam Lawson","Génie civil","ME101","Mécanique générale","Dr. S. Amouzou",9.66
+372947,"Komi Agbeko","SCOM","EL201","Électrotechnique","Pr. G. Komlan",11.1
+298312,"Mawuli Doe","Génie civil","AI310","Machine Learning","Dr. K. Agbeko",11.6
+672154,"Afi Mensah","Génie électrique","CI150","Calcul scientifique","Pr. L. Mensah",17.94
+369781,"Komi Komlan","Génie civil","GL200","Conception logicielle","Pr. D. Tchalla",6.79
+424645,"Abla Kouma","Informatique et Systèmes","SC120","Théorie des Signaux","Pr. D. Tchalla",18.57
+520765,"Kossi Kouma","Génie électrique","ME101","Mécanique générale","Dr. S. Amouzou",11.55
+813415,"Elom Amouzou","Génie électrique","RS180","Réseaux avancés","Dr. Y. Amegah",3.64
+505036,"Koffi Lawson","Génie mécanique","EL201","Électrotechnique","Dr. S. Amouzou",0.54
+710141,"Abla Kpante","Informatique et Systèmes","CI150","Calcul scientifique","Dr. S. Amouzou",0.6
+239734,"Akoua Kpante","Génie Logiciel","EL201","Électrotechnique","Pr. L. Mensah",16.83
+793608,"Yao Agbeko","Systèmes Réseaux","RS180","Réseaux avancés","Dr. S. Amouzou",1.95
+360426,"Koffi Doe","Génie civil","AI310","Machine Learning","Dr. S. Amouzou",7.1
+372117,"Eyram Mensah","Génie civil","RS180","Réseaux avancés","Pr. T. Lawson",9.17
+382323,"Akoua Doe","IA & Big Data","GL200","Conception logicielle","Pr. G. Komlan",4.72
+676837,"Eyram Tchalla","Génie Logiciel","CI150","Calcul scientifique","Dr. S. Amouzou",6.26
+268892,"Kossi Komlan","Systèmes Réseaux","SC120","Théorie des Signaux","Pr. L. Mensah",13.01
+284595,"Yao Amegah","Génie civil","AI310","Machine Learning","Dr. Y. Amegah",4.6
+421575,"Koffi Amegah","Génie Logiciel","CS220","Programmation avancée","Dr. K. Agbeko",15.16
+982875,"Koffi Agbeko","Génie Logiciel","CI150","Calcul scientifique","Pr. D. Tchalla",9.61
+866861,"Senam Mensah","Systèmes Réseaux","SC120","Théorie des Signaux","Pr. T. Lawson",16.09
+366022,"Abla Amouzou","Génie électrique","RS180","Réseaux avancés","Pr. L. Mensah",16.46
+555752,"Abla Mensah","SCOM","GL200","Conception logicielle","Dr. K. Agbeko",8.01
+214056,"Yao Mensah","Informatique et Systèmes","CS220","Programmation avancée","Dr. M. Kpante",15.95
+357532,"Amah Doe","Génie Logiciel","EL201","Électrotechnique","Pr. T. Lawson",4.11
+920423,"Senam Doe","Génie civil","RS180","Réseaux avancés","Pr. G. Komlan",6.79
+288858,"Abla Agbeko","Génie mécanique","AI310","Machine Learning","Dr. K. Agbeko",3.43
+970238,"Yao Komlan","Systèmes Réseaux","RS180","Réseaux avancés","Dr. K. Agbeko",4.21
+208834,"Yao Doe","Systèmes Réseaux","RS180","Réseaux avancés","Dr. S. Amouzou",16.99
+376675,"Mawuli Doe","Génie mécanique","CS220","Programmation avancée","Pr. D. Tchalla",15.71
+805894,"Abla Kouma","Informatique et Systèmes","AI310","Machine Learning","Pr. D. Tchalla",3.78
+261078,"Komi Komlan","Informatique et Systèmes","SC120","Théorie des Signaux","Pr. G. Komlan",19.87
+588963,"Eyram Mensah","Génie Logiciel","EL201","Électrotechnique","Dr. M. Kpante",6.13
+973223,"Mawuli Kouma","Génie mécanique","AI310","Machine Learning","Pr. L. Mensah",16.14
+910989,"Afi Kpante","SCOM","GL200","Conception logicielle","Dr. S. Amouzou",1.27
+822894,"Mawuli Kpante","Génie civil","RS180","Réseaux avancés","Dr. K. Agbeko",2.15
+891106,"Elom Agbeko","IA & Big Data","CS220","Programmation avancée","Pr. D. Tchalla",4.05
+525069,"Yao Mensah","Systèmes Réseaux","SC120","Théorie des Signaux","Dr. S. Amouzou",12.33
+561869,"Elom Mensah","Génie civil","GL200","Conception logicielle","Pr. L. Mensah",11.42
+262054,"Elom Amegah","IA & Big Data","AI310","Machine Learning","Dr. S. Amouzou",7.63
+273010,"Senam Doe","Informatique et Systèmes","CS220","Programmation avancée","Pr. D. Tchalla",12.92
+711933,"Abla Komlan","Génie civil","EL201","Électrotechnique","Pr. G. Komlan",8.15
+989353,"Afi Komlan","SCOM","EL201","Électrotechnique","Pr. L. Mensah",18.26
+916142,"Komi Kpante","SCOM","AI310","Machine Learning","Dr. S. Amouzou",4.7
+398356,"Afi Kouma","Génie mécanique","CS220","Programmation avancée","Pr. G. Komlan",19.29
+711605,"Komi Mensah","Génie Logiciel","AI310","Machine Learning","Dr. K. Agbeko",17.41
+251519,"Eyram Amegah","Génie civil","CS220","Programmation avancée","Pr. G. Komlan",14.38
+407500,"Eyram Lawson","IA & Big Data","CI150","Calcul scientifique","Pr. L. Mensah",3.16
+824548,"Mawuli Agbeko","IA & Big Data","CS220","Programmation avancée","Pr. T. Lawson",2.55
+302907,"Eyram Lawson","Génie Logiciel","ME101","Mécanique générale","Dr. K. Agbeko",14.57
+738852,"Komi Tchalla","IA & Big Data","AI310","Machine Learning","Dr. M. Kpante",10.82
+706933,"Afi Tchalla","Génie civil","ME101","Mécanique générale","Dr. M. Kpante",6.85
+151722,"Eyram Mensah","Génie électrique","AI310","Machine Learning","Dr. M. Kpante",2.32
+776645,"Amah Lawson","Systèmes Réseaux","EL201","Électrotechnique","Dr. K. Agbeko",18.81
+960250,"Afi Tchalla","SCOM","CI150","Calcul scientifique","Pr. G. Komlan",19.55
+521515,"Komi Amouzou","Génie civil","CI150","Calcul scientifique","Dr. M. Kpante",17.0
+576970,"Akoua Agbeko","IA & Big Data","ME101","Mécanique générale","Dr. K. Agbeko",13.45
+301153,"Afi Komlan","Génie Logiciel","SC120","Théorie des Signaux","Dr. S. Amouzou",0.25
+664940,"Abla Lawson","IA & Big Data","ME101","Mécanique générale","Dr. M. Kpante",19.01
+841428,"Akoua Kpante","Génie Logiciel","CS220","Programmation avancée","Dr. K. Agbeko",13.28
+229494,"Akoua Kpante","IA & Big Data","AI310","Machine Learning","Pr. L. Mensah",16.68
+946407,"Afi Tchalla","Systèmes Réseaux","RS180","Réseaux avancés","Pr. T. Lawson",18.18
+722594,"Komi Lawson","IA & Big Data","CS220","Programmation avancée","Pr. D. Tchalla",13.51
+368144,"Amah Amegah","IA & Big Data","SC120","Théorie des Signaux","Pr. D. Tchalla",5.23
+426955,"Senam Lawson","Génie civil","EL201","Électrotechnique","Pr. L. Mensah",11.33
+907157,"Eyram Kpante","Génie Logiciel","CI150","Calcul scientifique","Dr. Y. Amegah",7.1
+197392,"Eyram Tchalla","Systèmes Réseaux","SC120","Théorie des Signaux","Dr. M. Kpante",5.38
+753055,"Afi Agbeko","IA & Big Data","CS220","Programmation avancée","Pr. G. Komlan",10.77
+167214,"Afi Doe","Informatique et Systèmes","CS220","Programmation avancée","Dr. K. Agbeko",11.88
+979058,"Koffi Amegah","Génie électrique","GL200","Conception logicielle","Dr. S. Amouzou",16.67
+765599,"Afi Kpante","Génie civil","ME101","Mécanique générale","Pr. L. Mensah",4.95
+204465,"Mawuli Tchalla","Génie Logiciel","SC120","Théorie des Signaux","Pr. L. Mensah",5.5
+216040,"Abla Tchalla","Génie mécanique","CI150","Calcul scientifique","Dr. Y. Amegah",8.19
+676529,"Mawuli Kpante","IA & Big Data","GL200","Conception logicielle","Pr. D. Tchalla",2.15
+140506,"Abla Kpante","Informatique et Systèmes","ME101","Mécanique générale","Dr. M. Kpante",11.74
+128431,"Amah Tchalla","SCOM","GL200","Conception logicielle","Pr. T. Lawson",3.49
+989551,"Senam Agbeko","Génie électrique","EL201","Électrotechnique","Pr. D. Tchalla",11.33
+103741,"Akoua Kpante","Systèmes Réseaux","CS220","Programmation avancée","Dr. S. Amouzou",1.79
+599517,"Kossi Kouma","Génie électrique","CS220","Programmation avancée","Dr. K. Agbeko",9.21
+331498,"Eyram Amegah","IA & Big Data","SC120","Théorie des Signaux","Dr. S. Amouzou",13.3
+961944,"Koffi Komlan","Génie civil","GL200","Conception logicielle","Pr. T. Lawson",8.28
+239265,"Elom Doe","Génie mécanique","AI310","Machine Learning","Dr. S. Amouzou",6.07
+216929,"Elom Lawson","Informatique et Systèmes","CI150","Calcul scientifique","Dr. S. Amouzou",18.93
+495874,"Komi Agbeko","Systèmes Réseaux","GL200","Conception logicielle","Dr. S. Amouzou",10.78
+988769,"Eyram Amegah","Informatique et Systèmes","SC120","Théorie des Signaux","Dr. Y. Amegah",3.49
+791906,"Yao Kpante","Génie mécanique","RS180","Réseaux avancés","Pr. G. Komlan",16.85
+606706,"Elom Kouma","Systèmes Réseaux","EL201","Électrotechnique","Dr. M. Kpante",8.39
+235525,"Komi Kouma","Informatique et Systèmes","RS180","Réseaux avancés","Dr. M. Kpante",18.22
+364479,"Kossi Kouma","Informatique et Systèmes","ME101","Mécanique générale","Dr. K. Agbeko",2.78
+769917,"Elom Mensah","Génie civil","CS220","Programmation avancée","Pr. G. Komlan",15.53
+154043,"Elom Doe","Génie Logiciel","CS220","Programmation avancée","Pr. L. Mensah",4.26
+291321,"Amah Mensah","Génie Logiciel","ME101","Mécanique générale","Dr. M. Kpante",12.88
+828513,"Komi Agbeko","IA & Big Data","EL201","Électrotechnique","Pr. L. Mensah",17.48
+237940,"Komi Tchalla","Informatique et Systèmes","ME101","Mécanique générale","Dr. Y. Amegah",13.96
+827657,"Mawuli Amouzou","Systèmes Réseaux","ME101","Mécanique générale","Pr. D. Tchalla",15.34
+241529,"Akoua Komlan","Génie Logiciel","RS180","Réseaux avancés","Pr. T. Lawson",6.39
+894069,"Komi Kouma","Génie civil","GL200","Conception logicielle","Dr. Y. Amegah",15.34
+722396,"Kossi Doe","SCOM","AI310","Machine Learning","Dr. K. Agbeko",18.89
+249160,"Kossi Lawson","Génie électrique","EL201","Électrotechnique","Dr. Y. Amegah",15.27
+879386,"Akoua Amegah","IA & Big Data","GL200","Conception logicielle","Pr. L. Mensah",10.49
+401101,"Yao Mensah","Génie civil","GL200","Conception logicielle","Dr. Y. Amegah",17.66
+662817,"Elom Komlan","Génie Logiciel","CS220","Programmation avancée","Pr. T. Lawson",0.24
+759455,"Abla Tchalla","Informatique et Systèmes","CI150","Calcul scientifique","Pr. L. Mensah",16.36
+501515,"Eyram Amouzou","Génie civil","GL200","Conception logicielle","Pr. D. Tchalla",17.94
+543785,"Kossi Agbeko","Génie Logiciel","ME101","Mécanique générale","Pr. T. Lawson",12.75
+453132,"Senam Lawson","IA & Big Data","CI150","Calcul scientifique","Pr. L. Mensah",6.69
+586447,"Koffi Doe","Génie Logiciel","SC120","Théorie des Signaux","Dr. K. Agbeko",7.09
+529518,"Amah Mensah","IA & Big Data","GL200","Conception logicielle","Dr. M. Kpante",7.05
+477535,"Akoua Tchalla","IA & Big Data","EL201","Électrotechnique","Dr. S. Amouzou",17.53
+405962,"Afi Mensah","Systèmes Réseaux","CS220","Programmation avancée","Pr. L. Mensah",18.62
+969994,"Komi Amegah","Génie mécanique","EL201","Électrotechnique","Dr. S. Amouzou",16.63
+506878,"Yao Tchalla","SCOM","RS180","Réseaux avancés","Pr. T. Lawson",19.53
+845604,"Afi Tchalla","Génie Logiciel","AI310","Machine Learning","Pr. G. Komlan",10.01
+893594,"Elom Kpante","Systèmes Réseaux","GL200","Conception logicielle","Pr. L. Mensah",16.38
+595061,"Afi Mensah","Génie civil","GL200","Conception logicielle","Dr. K. Agbeko",11.71
+823245,"Yao Komlan","Informatique et Systèmes","SC120","Théorie des Signaux","Pr. L. Mensah",17.33
+534910,"Eyram Kouma","Systèmes Réseaux","EL201","Électrotechnique","Dr. M. Kpante",14.96
+982539,"Komi Kpante","SCOM","SC120","Théorie des Signaux","Dr. Y. Amegah",0.18
+436192,"Komi Doe","Systèmes Réseaux","CS220","Programmation avancée","Pr. T. Lawson",2.51
+191930,"Mawuli Agbeko","IA & Big Data","SC120","Théorie des Signaux","Dr. M. Kpante",2.13
+216688,"Elom Kouma","SCOM","SC120","Théorie des Signaux","Pr. G. Komlan",15.88
+155211,"Koffi Lawson","Génie mécanique","AI310","Machine Learning","Pr. T. Lawson",11.38
+885591,"Akoua Kpante","Génie électrique","EL201","Électrotechnique","Dr. Y. Amegah",11.69
+143491,"Amah Amegah","SCOM","AI310","Machine Learning","Pr. D. Tchalla",9.96
+619023,"Komi Tchalla","Systèmes Réseaux","AI310","Machine Learning","Pr. G. Komlan",11.22
+804771,"Senam Doe","Génie Logiciel","ME101","Mécanique générale","Pr. L. Mensah",1.28
+992272,"Elom Tchalla","Génie électrique","GL200","Conception logicielle","Dr. Y. Amegah",8.01
+912068,"Kossi Amegah","Génie électrique","CI150","Calcul scientifique","Dr. Y. Amegah",8.62
+734378,"Akoua Kpante","SCOM","GL200","Conception logicielle","Pr. D. Tchalla",15.04
+566027,"Abla Mensah","Génie civil","SC120","Théorie des Signaux","Pr. G. Komlan",11.11
+473606,"Elom Doe","Génie civil","EL201","Électrotechnique","Pr. G. Komlan",4.81
+972186,"Amah Doe","SCOM","CS220","Programmation avancée","Pr. L. Mensah",1.28
+739694,"Senam Amegah","IA & Big Data","AI310","Machine Learning","Dr. M. Kpante",15.96
+309171,"Kossi Mensah","Systèmes Réseaux","CI150","Calcul scientifique","Dr. M. Kpante",14.71
+474209,"Kossi Amouzou","Génie civil","GL200","Conception logicielle","Dr. S. Amouzou",6.41
+104963,"Afi Kpante","IA & Big Data","CI150","Calcul scientifique","Dr. S. Amouzou",17.83
+981842,"Amah Amouzou","Informatique et Systèmes","EL201","Électrotechnique","Pr. G. Komlan",4.31
+208388,"Kossi Mensah","Génie civil","EL201","Électrotechnique","Pr. T. Lawson",14.82
+437695,"Koffi Kouma","Génie électrique","ME101","Mécanique générale","Pr. G. Komlan",15.9
+445503,"Amah Kpante","Systèmes Réseaux","CI150","Calcul scientifique","Pr. G. Komlan",0.18
+345921,"Mawuli Kpante","Systèmes Réseaux","CI150","Calcul scientifique","Dr. S. Amouzou",4.18
+874126,"Abla Kpante","Génie Logiciel","CI150","Calcul scientifique","Dr. M. Kpante",1.79
+613868,"Kossi Lawson","Systèmes Réseaux","ME101","Mécanique générale","Pr. G. Komlan",5.65
+381227,"Koffi Kouma","Génie mécanique","GL200","Conception logicielle","Dr. S. Amouzou",13.62
+632701,"Eyram Lawson","SCOM","ME101","Mécanique générale","Dr. M. Kpante",13.55
+459027,"Afi Lawson","Génie électrique","SC120","Théorie des Signaux","Pr. D. Tchalla",12.24
+583301,"Yao Lawson","Génie électrique","EL201","Électrotechnique","Dr. K. Agbeko",1.82
+217496,"Eyram Mensah","Génie mécanique","RS180","Réseaux avancés","Dr. M. Kpante",10.81
+699023,"Akoua Kouma","Génie mécanique","GL200","Conception logicielle","Pr. L. Mensah",4.83
+219140,"Amah Agbeko","Génie électrique","RS180","Réseaux avancés","Dr. M. Kpante",11.53
+858124,"Senam Kpante","IA & Big Data","RS180","Réseaux avancés","Pr. D. Tchalla",11.74
+123412,"Afi Doe","Informatique et Systèmes","CS220","Programmation avancée","Pr. T. Lawson",15.11
+670308,"Abla Doe","Génie électrique","SC120","Théorie des Signaux","Dr. M. Kpante",13.88
+419976,"Senam Agbeko","Informatique et Systèmes","SC120","Théorie des Signaux","Pr. G. Komlan",3.02
+977460,"Amah Amouzou","Informatique et Systèmes","GL200","Conception logicielle","Pr. D. Tchalla",4.09
+891915,"Senam Doe","Informatique et Systèmes","GL200","Conception logicielle","Dr. M. Kpante",11.8
+290058,"Yao Kouma","Systèmes Réseaux","RS180","Réseaux avancés","Pr. L. Mensah",14.06
+130435,"Yao Doe","SCOM","ME101","Mécanique générale","Dr. Y. Amegah",9.78
+273228,"Senam Doe","Génie Logiciel","ME101","Mécanique générale","Pr. G. Komlan",0.52
+436664,"Senam Lawson","Génie électrique","AI310","Machine Learning","Dr. Y. Amegah",0.79
+616409,"Mawuli Doe","Génie électrique","RS180","Réseaux avancés","Dr. Y. Amegah",19.76
+490462,"Elom Lawson","SCOM","ME101","Mécanique générale","Dr. K. Agbeko",0.13
+879877,"Afi Komlan","Génie électrique","RS180","Réseaux avancés","Pr. L. Mensah",3.51
+982969,"Mawuli Komlan","Génie Logiciel","EL201","Électrotechnique","Dr. M. Kpante",18.31
+107407,"Amah Doe","Génie mécanique","CS220","Programmation avancée","Dr. K. Agbeko",7.81
+865777,"Akoua Tchalla","Génie Logiciel","CI150","Calcul scientifique","Pr. G. Komlan",5.2
+863197,"Yao Amegah","Génie mécanique","CS220","Programmation avancée","Dr. M. Kpante",19.66
+403495,"Abla Lawson","Génie mécanique","AI310","Machine Learning","Dr. S. Amouzou",19.15
+614817,"Abla Agbeko","SCOM","EL201","Électrotechnique","Dr. Y. Amegah",2.87
+712352,"Abla Tchalla","Génie mécanique","GL200","Conception logicielle","Pr. L. Mensah",12.74
+417097,"Abla Agbeko","Génie Logiciel","RS180","Réseaux avancés","Dr. Y. Amegah",5.75
+137710,"Akoua Komlan","Informatique et Systèmes","CS220","Programmation avancée","Pr. D. Tchalla",16.92
+347987,"Akoua Lawson","Systèmes Réseaux","AI310","Machine Learning","Dr. Y. Amegah",10.21
+202579,"Komi Doe","IA & Big Data","CI150","Calcul scientifique","Dr. S. Amouzou",1.65
+557385,"Kossi Kouma","Génie Logiciel","EL201","Électrotechnique","Pr. G. Komlan",1.64
+356218,"Komi Komlan","Informatique et Systèmes","EL201","Électrotechnique","Pr. G. Komlan",14.04
+948549,"Afi Kpante","Génie électrique","SC120","Théorie des Signaux","Pr. G. Komlan",11.6
+173218,"Koffi Komlan","SCOM","CI150","Calcul scientifique","Pr. T. Lawson",15.49
+154670,"Komi Amegah","Génie électrique","CS220","Programmation avancée","Dr. S. Amouzou",8.11
+849872,"Akoua Komlan","IA & Big Data","RS180","Réseaux avancés","Pr. D. Tchalla",2.57
+856668,"Senam Komlan","Systèmes Réseaux","RS180","Réseaux avancés","Dr. M. Kpante",16.84
+806215,"Mawuli Tchalla","Génie Logiciel","ME101","Mécanique générale","Pr. G. Komlan",1.68
+921764,"Komi Kouma","Génie civil","CS220","Programmation avancée","Pr. D. Tchalla",6.54
+125214,"Yao Agbeko","SCOM","AI310","Machine Learning","Dr. Y. Amegah",19.07
+729752,"Akoua Amegah","Informatique et Systèmes","CS220","Programmation avancée","Pr. D. Tchalla",0.26
+632024,"Abla Lawson","Génie civil","CS220","Programmation avancée","Dr. S. Amouzou",15.64
+377726,"Akoua Lawson","Génie Logiciel","GL200","Conception logicielle","Dr. K. Agbeko",1.64
+467712,"Eyram Kpante","Génie électrique","GL200","Conception logicielle","Pr. L. Mensah",6.06
+512801,"Akoua Lawson","Informatique et Systèmes","CS220","Programmation avancée","Dr. M. Kpante",0.99
+613318,"Yao Amouzou","Génie Logiciel","EL201","Électrotechnique","Dr. Y. Amegah",2.43
+555390,"Abla Lawson","SCOM","CS220","Programmation avancée","Dr. M. Kpante",4.17
+709533,"Amah Tchalla","Systèmes Réseaux","CS220","Programmation avancée","Dr. S. Amouzou",14.4
+430133,"Yao Doe","IA & Big Data","GL200","Conception logicielle","Dr. S. Amouzou",15.58
+267416,"Komi Komlan","Génie Logiciel","CI150","Calcul scientifique","Dr. M. Kpante",9.83
+521558,"Eyram Agbeko","Génie mécanique","ME101","Mécanique générale","Dr. Y. Amegah",18.46
+148989,"Kossi Kpante","Systèmes Réseaux","CS220","Programmation avancée","Pr. G. Komlan",13.7
+238089,"Abla Lawson","Informatique et Systèmes","GL200","Conception logicielle","Dr. S. Amouzou",8.01
+774647,"Yao Kouma","Génie mécanique","AI310","Machine Learning","Pr. L. Mensah",19.71
+494827,"Abla Kouma","Génie mécanique","CS220","Programmation avancée","Dr. K. Agbeko",17.6
+255127,"Koffi Lawson","Génie civil","CS220","Programmation avancée","Pr. L. Mensah",5.78
+511722,"Eyram Komlan","Informatique et Systèmes","SC120","Théorie des Signaux","Pr. T. Lawson",4.38
+260654,"Akoua Komlan","Génie Logiciel","AI310","Machine Learning","Pr. D. Tchalla",18.85
+260967,"Mawuli Lawson","Génie électrique","AI310","Machine Learning","Dr. Y. Amegah",11.08
+342761,"Yao Kpante","Génie Logiciel","RS180","Réseaux avancés","Pr. T. Lawson",13.86
+901828,"Yao Kouma","Génie mécanique","ME101","Mécanique générale","Pr. D. Tchalla",13.7
+335103,"Eyram Tchalla","IA & Big Data","CS220","Programmation avancée","Pr. L. Mensah",4.53
+350733,"Eyram Mensah","Systèmes Réseaux","EL201","Électrotechnique","Dr. K. Agbeko",13.4
+416642,"Afi Mensah","IA & Big Data","ME101","Mécanique générale","Pr. D. Tchalla",7.89
+201845,"Amah Lawson","Génie mécanique","SC120","Théorie des Signaux","Dr. K. Agbeko",1.25
+158072,"Akoua Amegah","Génie Logiciel","EL201","Électrotechnique","Pr. L. Mensah",3.77
+835864,"Yao Amegah","Génie mécanique","GL200","Conception logicielle","Pr. D. Tchalla",18.93
+699772,"Elom Lawson","Génie mécanique","EL201","Électrotechnique","Dr. S. Amouzou",5.43
+596347,"Akoua Kouma","IA & Big Data","EL201","Électrotechnique","Dr. S. Amouzou",13.12
+368917,"Amah Lawson","Systèmes Réseaux","RS180","Réseaux avancés","Dr. S. Amouzou",7.59
+533908,"Eyram Komlan","Systèmes Réseaux","CS220","Programmation avancée","Dr. M. Kpante",14.9
+296397,"Yao Doe","Génie électrique","SC120","Théorie des Signaux","Dr. Y. Amegah",0.95
+277317,"Mawuli Agbeko","IA & Big Data","ME101","Mécanique générale","Pr. D. Tchalla",8.15
+639700,"Senam Amouzou","Informatique et Systèmes","GL200","Conception logicielle","Pr. D. Tchalla",13.16
+751447,"Senam Lawson","SCOM","CS220","Programmation avancée","Pr. L. Mensah",3.72
+982718,"Akoua Doe","IA & Big Data","EL201","Électrotechnique","Dr. S. Amouzou",0.9
+736801,"Abla Kouma","Génie civil","GL200","Conception logicielle","Pr. G. Komlan",18.65
+689336,"Kossi Tchalla","Génie électrique","CS220","Programmation avancée","Dr. K. Agbeko",1.04
+200514,"Eyram Amouzou","Informatique et Systèmes","AI310","Machine Learning","Pr. D. Tchalla",0.67
+949848,"Kossi Amouzou","Génie mécanique","GL200","Conception logicielle","Dr. K. Agbeko",5.37
+741264,"Akoua Amegah","SCOM","GL200","Conception logicielle","Dr. K. Agbeko",5.83
+220244,"Amah Amouzou","Systèmes Réseaux","CS220","Programmation avancée","Pr. T. Lawson",4.23
+614650,"Koffi Amegah","Génie Logiciel","AI310","Machine Learning","Dr. S. Amouzou",1.85
+286258,"Akoua Kpante","Génie mécanique","RS180","Réseaux avancés","Dr. M. Kpante",11.51
+613823,"Senam Lawson","Génie électrique","EL201","Électrotechnique","Pr. G. Komlan",15.58
+309381,"Koffi Mensah","Génie mécanique","ME101","Mécanique générale","Pr. T. Lawson",17.9
+354095,"Komi Tchalla","SCOM","SC120","Théorie des Signaux","Pr. G. Komlan",4.33
+390555,"Senam Kpante","Génie électrique","ME101","Mécanique générale","Pr. G. Komlan",0.09
+297387,"Komi Doe","Génie civil","CS220","Programmation avancée","Pr. G. Komlan",13.2
+473592,"Senam Amegah","Informatique et Systèmes","EL201","Électrotechnique","Pr. L. Mensah",15.56
+682936,"Abla Komlan","Génie civil","CI150","Calcul scientifique","Dr. S. Amouzou",5.79
+387148,"Senam Lawson","Génie civil","EL201","Électrotechnique","Dr. Y. Amegah",15.95
+524123,"Akoua Kouma","Génie civil","AI310","Machine Learning","Dr. K. Agbeko",5.75
+529296,"Akoua Komlan","IA & Big Data","RS180","Réseaux avancés","Pr. G. Komlan",2.99
+149359,"Komi Tchalla","Systèmes Réseaux","AI310","Machine Learning","Pr. L. Mensah",1.4
+719931,"Amah Tchalla","Génie mécanique","RS180","Réseaux avancés","Pr. G. Komlan",18.03
+662540,"Senam Mensah","IA & Big Data","EL201","Électrotechnique","Dr. Y. Amegah",9.1
+351135,"Kossi Kpante","Systèmes Réseaux","CS220","Programmation avancée","Dr. Y. Amegah",6.66
+242464,"Kossi Agbeko","Génie civil","CS220","Programmation avancée","Dr. S. Amouzou",12.55
+164489,"Abla Agbeko","Génie Logiciel","AI310","Machine Learning","Pr. D. Tchalla",11.66
+974597,"Senam Doe","Génie Logiciel","CI150","Calcul scientifique","Dr. K. Agbeko",5.97
+182280,"Kossi Kpante","Génie civil","GL200","Conception logicielle","Pr. D. Tchalla",18.17
+209532,"Abla Lawson","Génie électrique","GL200","Conception logicielle","Dr. M. Kpante",9.01
+408216,"Amah Amouzou","IA & Big Data","CI150","Calcul scientifique","Dr. Y. Amegah",13.27
+455052,"Mawuli Amegah","Génie civil","ME101","Mécanique générale","Dr. K. Agbeko",1.68
+311098,"Afi Mensah","Génie mécanique","SC120","Théorie des Signaux","Dr. K. Agbeko",12.93
+929061,"Amah Kpante","SCOM","CI150","Calcul scientifique","Pr. T. Lawson",5.21
+829569,"Yao Amegah","Génie Logiciel","SC120","Théorie des Signaux","Pr. G. Komlan",14.58
+205735,"Akoua Amegah","Génie Logiciel","CI150","Calcul scientifique","Dr. M. Kpante",14.37
+299102,"Elom Kpante","SCOM","RS180","Réseaux avancés","Pr. L. Mensah",15.3
+992643,"Kossi Kpante","IA & Big Data","GL200","Conception logicielle","Pr. T. Lawson",14.78
+558882,"Komi Komlan","Systèmes Réseaux","SC120","Théorie des Signaux","Pr. L. Mensah",13.66
+863613,"Abla Doe","SCOM","SC120","Théorie des Signaux","Pr. T. Lawson",3.61
+121811,"Senam Agbeko","IA & Big Data","ME101","Mécanique générale","Dr. K. Agbeko",17.85
+834979,"Komi Agbeko","Informatique et Systèmes","ME101","Mécanique générale","Pr. D. Tchalla",3.53
+731206,"Eyram Doe","Systèmes Réseaux","AI310","Machine Learning","Pr. L. Mensah",4.31
+208202,"Koffi Komlan","Génie électrique","CS220","Programmation avancée","Pr. L. Mensah",14.78
+815605,"Senam Mensah","Génie civil","EL201","Électrotechnique","Pr. G. Komlan",17.55
+442459,"Senam Komlan","IA & Big Data","ME101","Mécanique générale","Dr. M. Kpante",13.67
+980202,"Eyram Tchalla","Informatique et Systèmes","AI310","Machine Learning","Pr. T. Lawson",17.35
+590618,"Eyram Agbeko","Génie mécanique","GL200","Conception logicielle","Pr. G. Komlan",3.0
+334188,"Afi Doe","IA & Big Data","GL200","Conception logicielle","Pr. L. Mensah",14.01
+986256,"Afi Lawson","Génie mécanique","GL200","Conception logicielle","Dr. S. Amouzou",8.95
+768938,"Koffi Mensah","IA & Big Data","SC120","Théorie des Signaux","Pr. G. Komlan",6.54
+683880,"Koffi Komlan","Génie mécanique","ME101","Mécanique générale","Pr. D. Tchalla",10.93
+879357,"Elom Kpante","SCOM","RS180","Réseaux avancés","Pr. D. Tchalla",14.54
+470337,"Yao Agbeko","Génie électrique","AI310","Machine Learning","Pr. L. Mensah",18.97
+913290,"Eyram Lawson","Génie civil","ME101","Mécanique générale","Dr. M. Kpante",12.65
+584575,"Yao Kpante","Génie Logiciel","CI150","Calcul scientifique","Dr. K. Agbeko",3.94
+467244,"Yao Amouzou","SCOM","SC120","Théorie des Signaux","Dr. M. Kpante",13.85
+673795,"Eyram Mensah","Informatique et Systèmes","EL201","Électrotechnique","Pr. G. Komlan",0.56
+746893,"Amah Amegah","Informatique et Systèmes","ME101","Mécanique générale","Pr. L. Mensah",1.62
