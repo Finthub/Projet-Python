@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    container_name: django-analyze-app
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+      - static_volume:/app/staticfiles
+    environment:
+      - DEBUG=False
+      - DJANGO_SETTINGS_MODULE=analyze.settings
+      - SECRET_KEY=change-this-to-a-secure-secret-key-in-production
+      - ALLOWED_HOSTS=*
+    restart: unless-stopped
+
+volumes:
+  static_volume:
